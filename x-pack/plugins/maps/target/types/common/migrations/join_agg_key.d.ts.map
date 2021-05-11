@@ -1,0 +1,1 @@
+{"version":3,"file":"join_agg_key.d.ts","sourceRoot":"","sources":["../../../../common/migrations/join_agg_key.ts"],"names":[],"mappings":"AAuBA,OAAO,EAAE,wBAAwB,EAAE,MAAM,0BAA0B,CAAC;AAgCpE,wBAAgB,iBAAiB,CAAC,EAChC,UAAU,GACX,EAAE;IACD,UAAU,EAAE,wBAAwB,CAAC;CACtC,GAAG,wBAAwB,CA8D3B"}

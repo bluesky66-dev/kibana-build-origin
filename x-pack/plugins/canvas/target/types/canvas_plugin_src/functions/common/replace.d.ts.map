@@ -1,0 +1,1 @@
+{"version":3,"file":"replace.d.ts","sourceRoot":"","sources":["../../../../../canvas_plugin_src/functions/common/replace.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,4BAA4B,EAAE,MAAM,gCAAgC,CAAC;AAG9E,UAAU,SAAS;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;CACrB;AACD,wBAAgB,OAAO,IAAI,4BAA4B,CAAC,SAAS,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,CAAC,CA4B5F"}

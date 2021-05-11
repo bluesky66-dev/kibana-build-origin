@@ -1,0 +1,1 @@
+{"version":3,"file":"custom_element_attributes.d.ts","sourceRoot":"","sources":["../../../../../server/routes/custom_elements/custom_element_attributes.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAG/C,oBAAY,uBAAuB,GAAG,IAAI,CAAC,aAAa,EAAE,OAAO,CAAC,MAAM,aAAa,EAAE,IAAI,CAAC,CAAC,GAAG;IAC9F,YAAY,EAAE,MAAM,CAAC;IACrB,UAAU,EAAE,MAAM,CAAC;CACpB,CAAC"}

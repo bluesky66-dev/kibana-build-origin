@@ -1,0 +1,1 @@
+{"version":3,"file":"determine_allocation_type.d.ts","sourceRoot":"","sources":["../../../../../../public/application/lib/data_tiers/determine_allocation_type.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,cAAc,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAC;AAEzE,eAAO,MAAM,+BAA+B,aACjC;IACP,QAAQ,CAAC,EAAE,cAAc,CAAC;IAC1B,OAAO,CAAC,EAAE,aAAa,CAAC;CACzB,yCAqBF,CAAC"}

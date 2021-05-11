@@ -1,0 +1,1 @@
+{"version":3,"file":"field_data_row.d.ts","sourceRoot":"","sources":["../../../../../../../public/application/datavisualizer/stats_table/types/field_data_row.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,cAAc,EAAE,uBAAuB,EAAE,MAAM,oBAAoB,CAAC;AAElF,MAAM,WAAW,iBAAiB;IAChC,MAAM,EAAE,cAAc,GAAG,uBAAuB,CAAC;CAClD"}

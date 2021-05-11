@@ -1,0 +1,1 @@
+{"version":3,"file":"get_agent_name_by_service.d.ts","sourceRoot":"","sources":["../../../../../../server/lib/settings/agent_configuration/get_agent_name_by_service.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,KAAK,EAAE,MAAM,6BAA6B,CAAC;AAKpD,wBAAsB,qBAAqB,CAAC,EAC1C,WAAW,EACX,KAAK,GACN,EAAE;IACD,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,EAAE,KAAK,CAAC;CACd,+BAgCA"}

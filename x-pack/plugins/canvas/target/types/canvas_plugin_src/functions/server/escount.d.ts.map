@@ -1,0 +1,1 @@
+{"version":3,"file":"escount.d.ts","sourceRoot":"","sources":["../../../../../canvas_plugin_src/functions/server/escount.ts"],"names":[],"mappings":"AAOA,OAAO,EACL,4BAA4B,EAC5B,qBAAqB,EACtB,MAAM,gCAAgC,CAAC;AAOxC,UAAU,SAAS;IACjB,KAAK,EAAE,MAAM,GAAG,IAAI,CAAC;IACrB,KAAK,EAAE,MAAM,CAAC;CACf;AAED,wBAAgB,OAAO,IAAI,4BAA4B,CACrD,SAAS,EACT,qBAAqB,EACrB,SAAS,EACT,GAAG,CACJ,CAoDA"}

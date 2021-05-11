@@ -1,0 +1,1 @@
+{"version":3,"file":"authentication_provider.d.ts","sourceRoot":"","sources":["../../../../common/model/authentication_provider.ts"],"names":[],"mappings":"AAOA;;GAEG;AACH,MAAM,WAAW,sBAAsB;IACrC,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,MAAM,CAAC;CACd;AAED;;;GAGG;AACH,wBAAgB,0BAA0B,CAAC,YAAY,EAAE,MAAM,WAE9D"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"confirm_watches_modal.d.ts","sourceRoot":"","sources":["../../../../../public/application/components/confirm_watches_modal.tsx"],"names":[],"mappings":";AAWA,eAAO,MAAM,mBAAmB;kBAIhB;QACZ,KAAK,EAAE,MAAM,CAAC;QACd,OAAO,EAAE,MAAM,CAAC;QAChB,WAAW,CAAC,EAAE,MAAM,CAAC;QACrB,UAAU,CAAC,EAAE,SAAS,GAAG,QAAQ,CAAC;KACnC,GAAG,IAAI;qDAC6B,IAAI;wBA8B1C,CAAC"}

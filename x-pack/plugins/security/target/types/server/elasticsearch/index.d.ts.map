@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../server/elasticsearch/index.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,oBAAoB,CAAC;AAE5D,oBAAY,kBAAkB,GAAG,IAAI,CAAC,iBAAiB,EAAE,yBAAyB,CAAC,CAAC;AACpF,OAAO,EACL,oBAAoB,EACpB,yBAAyB,EACzB,0BAA0B,GAC3B,MAAM,yBAAyB,CAAC"}

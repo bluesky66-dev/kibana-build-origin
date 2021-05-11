@@ -1,0 +1,1 @@
+{"version":3,"file":"style.d.ts","sourceRoot":"","sources":["../../../../../public/classes/styles/style.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,YAAY,EAAE,MAAM,OAAO,CAAC;AACrC,OAAO,EAAE,eAAe,EAAE,MAAM,kCAAkC,CAAC;AAEnE,MAAM,WAAW,MAAM;IACrB,OAAO,IAAI,MAAM,CAAC;IAClB,YAAY,CACV,uBAAuB,EAAE,CAAC,eAAe,EAAE,eAAe,KAAK,IAAI,GAClE,YAAY,CAAC,GAAG,CAAC,GAAG,IAAI,CAAC;CAC7B"}

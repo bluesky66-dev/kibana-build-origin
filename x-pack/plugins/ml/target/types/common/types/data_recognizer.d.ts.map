@@ -1,0 +1,1 @@
+{"version":3,"file":"data_recognizer.d.ts","sourceRoot":"","sources":["../../../../common/types/data_recognizer.ts"],"names":[],"mappings":"AAOA,MAAM,WAAW,OAAO;IACtB,EAAE,EAAE,MAAM,CAAC;IACX,mBAAmB,EAAE,MAAM,CAAC;IAC5B,iBAAiB,EAAE,MAAM,CAAC;IAC1B,wBAAwB,EAAE,MAAM,GAAG,SAAS,CAAC;CAC9C;AAED,MAAM,WAAW,cAAc;IAC7B,SAAS,EAAE,OAAO,CAAC;IACnB,IAAI,EAAE,OAAO,EAAE,CAAC;CACjB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"snapshot.d.ts","sourceRoot":"","sources":["../../../../../public/state/actions/snapshot.ts"],"names":[],"mappings":"AAUA,MAAM,WAAW,kBAAkB;IACjC,cAAc,EAAE,MAAM,CAAC;IACvB,YAAY,EAAE,MAAM,CAAC;IACrB,OAAO,CAAC,EAAE,MAAM,CAAC;CAClB;AAED,eAAO,MAAM,sBAAsB,iHAAyD,CAAC;AAC7F,eAAO,MAAM,6BAA6B;;;;;;;;GAAuD,CAAC;AAClG,eAAO,MAAM,0BAA0B,uFAAiD,CAAC"}

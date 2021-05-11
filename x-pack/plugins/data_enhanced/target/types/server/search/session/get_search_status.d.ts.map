@@ -1,0 +1,1 @@
+{"version":3,"file":"get_search_status.d.ts","sourceRoot":"","sources":["../../../../../server/search/session/get_search_status.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,mBAAmB,EAAE,MAAM,iBAAiB,CAAC;AAGtD,OAAO,EAAE,wBAAwB,EAAE,MAAM,iBAAiB,CAAC;AAE3D,wBAAsB,eAAe,CACnC,MAAM,EAAE,mBAAmB,EAC3B,OAAO,EAAE,MAAM,GACd,OAAO,CAAC,IAAI,CAAC,wBAAwB,EAAE,QAAQ,GAAG,OAAO,CAAC,CAAC,CAsC7D"}

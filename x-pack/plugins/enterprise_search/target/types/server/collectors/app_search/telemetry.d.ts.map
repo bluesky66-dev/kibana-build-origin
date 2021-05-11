@@ -1,0 +1,1 @@
+{"version":3,"file":"telemetry.d.ts","sourceRoot":"","sources":["../../../../../server/collectors/app_search/telemetry.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,wBAAwB,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AACnE,OAAO,EAAE,oBAAoB,EAAE,MAAM,qCAAqC,CAAC;AAoB3E,eAAO,MAAM,iBAAiB,yBAAyB,CAAC;AAExD;;GAEG;AAEH,eAAO,MAAM,+BAA+B,oBACzB,oBAAoB,gBACvB,wBAAwB,OACjC,MAAM,SAuBZ,CAAC"}

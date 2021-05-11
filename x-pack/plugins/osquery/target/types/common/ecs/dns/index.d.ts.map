@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../common/ecs/dns/index.ts"],"names":[],"mappings":"AAOA,MAAM,WAAW,MAAM;IACrB,QAAQ,CAAC,EAAE,cAAc,CAAC;IAC1B,WAAW,CAAC,EAAE,MAAM,EAAE,CAAC;IACvB,aAAa,CAAC,EAAE,MAAM,EAAE,CAAC;CAC1B;AAED,MAAM,WAAW,cAAc;IAC7B,IAAI,CAAC,EAAE,MAAM,EAAE,CAAC;IAChB,IAAI,CAAC,EAAE,MAAM,EAAE,CAAC;CACjB"}

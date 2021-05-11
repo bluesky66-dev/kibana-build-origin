@@ -1,0 +1,1 @@
+{"version":3,"file":"use_trial_status.d.ts","sourceRoot":"","sources":["../../../../public/hooks/use_trial_status.tsx"],"names":[],"mappings":"AAiBA,UAAU,mBAAmB;IAC3B,SAAS,EAAE,eAAe,GAAG,SAAS,GAAG,UAAU,GAAG,UAAU,CAAC;IACjE,gBAAgB,EAAE,OAAO,CAAC;IAC1B,sBAAsB,EAAE,MAAM,IAAI,CAAC;CACpC;AAED,wBAAgB,cAAc,IAAI,mBAAmB,CA6BpD"}

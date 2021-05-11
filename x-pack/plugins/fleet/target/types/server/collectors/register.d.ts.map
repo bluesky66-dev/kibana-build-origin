@@ -1,0 +1,1 @@
+{"version":3,"file":"register.d.ts","sourceRoot":"","sources":["../../../../server/collectors/register.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,oBAAoB,EAAE,MAAM,qCAAqC,CAAC;AAC3E,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAK1C,OAAO,EAAE,eAAe,EAAE,MAAM,IAAI,CAAC;AAQrC,wBAAgB,2BAA2B,CACzC,IAAI,EAAE,SAAS,EACf,MAAM,EAAE,eAAe,EACvB,eAAe,EAAE,oBAAoB,GAAG,SAAS,GAChD,IAAI,CAwCN"}

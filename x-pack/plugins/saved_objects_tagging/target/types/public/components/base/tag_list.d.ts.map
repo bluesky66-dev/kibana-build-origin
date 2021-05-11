@@ -1,0 +1,1 @@
+{"version":3,"file":"tag_list.d.ts","sourceRoot":"","sources":["../../../../../public/components/base/tag_list.tsx"],"names":[],"mappings":"AAOA,OAAc,EAAE,EAAE,EAAE,MAAM,OAAO,CAAC;AAElC,OAAO,EAAE,GAAG,EAAE,aAAa,EAAE,MAAM,uBAAuB,CAAC;AAG3D,MAAM,WAAW,YAAY;IAC3B,IAAI,EAAE,KAAK,CAAC,GAAG,GAAG,aAAa,CAAC,CAAC;CAClC;AAED;;GAEG;AACH,eAAO,MAAM,OAAO,EAAE,EAAE,CAAC,YAAY,CAQpC,CAAC"}

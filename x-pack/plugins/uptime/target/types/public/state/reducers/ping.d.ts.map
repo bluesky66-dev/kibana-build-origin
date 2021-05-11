@@ -1,0 +1,1 @@
+{"version":3,"file":"ping.d.ts","sourceRoot":"","sources":["../../../../../public/state/reducers/ping.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,eAAe,EAAE,MAAM,+BAA+B,CAAC;AAEhE,MAAM,WAAW,SAAS;IACxB,aAAa,EAAE,eAAe,GAAG,IAAI,CAAC;IACtC,MAAM,EAAE,GAAG,EAAE,CAAC;IACd,OAAO,EAAE,OAAO,CAAC;CAClB;AAQD,aAAK,oBAAoB,GAAG,eAAe,GAAG,KAAK,CAAC;AAEpD,eAAO,MAAM,WAAW,iFAoBvB,CAAC"}

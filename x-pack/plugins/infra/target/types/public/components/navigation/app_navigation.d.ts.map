@@ -1,0 +1,1 @@
+{"version":3,"file":"app_navigation.d.ts","sourceRoot":"","sources":["../../../../../public/components/navigation/app_navigation.tsx"],"names":[],"mappings":"AAQA,OAAO,KAAK,MAAM,OAAO,CAAC;AAG1B,UAAU,kBAAkB;IAC1B,YAAY,EAAE,MAAM,CAAC;IACrB,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC;CAC3B;AAED,eAAO,MAAM,aAAa,sCAAuC,kBAAkB,gBAMlF,CAAC"}

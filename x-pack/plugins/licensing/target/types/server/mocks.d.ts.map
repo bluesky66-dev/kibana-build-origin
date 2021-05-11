@@ -1,0 +1,1 @@
+{"version":3,"file":"mocks.d.ts","sourceRoot":"","sources":["../../../server/mocks.ts"],"names":[],"mappings":";;;AAQA,OAAO,EACL,oBAAoB,EACpB,oBAAoB,EACpB,iCAAiC,EAClC,MAAM,SAAS,CAAC;AAkDjB,eAAO,MAAM,aAAa;;;;;;;uBA9CE,KAAK,MAAM,CAAC,oBAAoB,CAAC;uBAiBjC,KAAK,MAAM,CAAC,oBAAoB,CAAC;;;;;sBAoB1D,KAAK,MAAM,CAAC,iCAAiC,CAAC;CAchD,CAAC"}

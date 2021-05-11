@@ -1,0 +1,1 @@
+{"version":3,"file":"tags_registry.d.ts","sourceRoot":"","sources":["../../../../public/lib/tags_registry.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,QAAQ,EAAE,MAAM,yBAAyB,CAAC;AACnD,OAAO,EAAE,GAAG,EAAE,OAAO,EAAE,MAAM,OAAO,CAAC;AAErC,cAAM,WAAY,SAAQ,QAAQ,CAAC,OAAO,EAAE,GAAG,CAAC;IACvC,OAAO,CAAC,GAAG,EAAE,OAAO;CAG5B;AAED,eAAO,MAAM,YAAY,aAAoB,CAAC"}

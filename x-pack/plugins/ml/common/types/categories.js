@@ -1,0 +1,25 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.VALIDATION_RESULT = void 0;
+/*
+ * Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+ * or more contributor license agreements. Licensed under the Elastic License
+ * 2.0; you may not use this file except in compliance with the Elastic License
+ * 2.0.
+ */
+
+let VALIDATION_RESULT;
+exports.VALIDATION_RESULT = VALIDATION_RESULT;
+
+(function (VALIDATION_RESULT) {
+  VALIDATION_RESULT[VALIDATION_RESULT["NO_EXAMPLES"] = 0] = "NO_EXAMPLES";
+  VALIDATION_RESULT[VALIDATION_RESULT["FAILED_TO_TOKENIZE"] = 1] = "FAILED_TO_TOKENIZE";
+  VALIDATION_RESULT[VALIDATION_RESULT["TOO_MANY_TOKENS"] = 2] = "TOO_MANY_TOKENS";
+  VALIDATION_RESULT[VALIDATION_RESULT["TOKEN_COUNT"] = 3] = "TOKEN_COUNT";
+  VALIDATION_RESULT[VALIDATION_RESULT["MEDIAN_LINE_LENGTH"] = 4] = "MEDIAN_LINE_LENGTH";
+  VALIDATION_RESULT[VALIDATION_RESULT["NULL_VALUES"] = 5] = "NULL_VALUES";
+  VALIDATION_RESULT[VALIDATION_RESULT["INSUFFICIENT_PRIVILEGES"] = 6] = "INSUFFICIENT_PRIVILEGES";
+})(VALIDATION_RESULT || (exports.VALIDATION_RESULT = VALIDATION_RESULT = {}));

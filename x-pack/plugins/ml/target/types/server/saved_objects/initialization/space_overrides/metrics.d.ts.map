@@ -1,0 +1,1 @@
+{"version":3,"file":"metrics.d.ts","sourceRoot":"","sources":["../../../../../../server/saved_objects/initialization/space_overrides/metrics.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,oBAAoB,EAAE,MAAM,eAAe,CAAC;AAoBrD,wBAAsB,iBAAiB,CAAC,EACtC,cAAc,GACf,EAAE,oBAAoB,GAAG,OAAO,CAAC,KAAK,CAAC;IAAE,EAAE,EAAE,MAAM,CAAC;IAAC,KAAK,EAAE,MAAM,CAAA;CAAE,CAAC,CAAC,CAoBtE"}

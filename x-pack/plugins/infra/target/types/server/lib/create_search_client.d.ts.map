@@ -1,0 +1,1 @@
+{"version":3,"file":"create_search_client.d.ts","sourceRoot":"","sources":["../../../../server/lib/create_search_client.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,gCAAgC,EAAE,MAAM,UAAU,CAAC;AACjE,OAAO,EAAE,qBAAqB,EAAE,2BAA2B,EAAE,MAAM,sBAAsB,CAAC;AAC1F,OAAO,EAAE,eAAe,EAAE,MAAM,+CAA+C,CAAC;AAEhF,eAAO,MAAM,kBAAkB,mBACb,gCAAgC,aACrC,eAAe,+CAEpB,qBAAqB,2DAE8B,CAAC"}

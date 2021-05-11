@@ -1,0 +1,1 @@
+{"version":3,"file":"job_download_button.d.ts","sourceRoot":"","sources":["../../../../public/components/job_download_button.tsx"],"names":[],"mappings":";AAUA,OAAO,EAAE,KAAK,EAAE,UAAU,EAAE,MAAM,oBAAoB,CAAC;AAEvD,UAAU,KAAK;IACb,MAAM,EAAE,CAAC,KAAK,EAAE,KAAK,KAAK,MAAM,CAAC;IACjC,GAAG,EAAE,UAAU,CAAC;CACjB;AAED,eAAO,MAAM,cAAc,oBAAqB,KAAK,gBAcpD,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../server/routes/views/index.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,SAAS,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AAInE,MAAM,WAAW,aAAa;IAC5B,aAAa,EAAE,aAAa,CAAC;IAC7B,QAAQ,EAAE,SAAS,CAAC;IACpB,MAAM,EAAE,MAAM,CAAC;CAChB;AAED,wBAAgB,qBAAqB,CAAC,IAAI,EAAE,aAAa,QA0BxD"}

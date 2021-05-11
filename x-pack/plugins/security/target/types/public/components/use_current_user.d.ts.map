@@ -1,0 +1,1 @@
+{"version":3,"file":"use_current_user.d.ts","sourceRoot":"","sources":["../../../../public/components/use_current_user.ts"],"names":[],"mappings":";AASA,OAAO,EAAE,0BAA0B,EAAE,MAAM,mBAAmB,CAAC;AAE/D,MAAM,WAAW,2BAA2B;IAC1C,KAAK,EAAE,0BAA0B,CAAC;CACnC;AAED,QAAA,MAAO,sBAAsB,kEAAE,iBAAiB,sFAE/C,CAAC;AAEF,OAAO,EAAE,sBAAsB,EAAE,iBAAiB,EAAE,CAAC;AAErD,wBAAgB,cAAc,kFAG7B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"alert_navigation.d.ts","sourceRoot":"","sources":["../../../common/alert_navigation.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,UAAU,EAAE,MAAM,6CAA6C,CAAC;AAEzE,MAAM,WAAW,kBAAkB;IACjC,IAAI,EAAE,MAAM,CAAC;CACd;AACD,MAAM,WAAW,oBAAoB;IACnC,KAAK,EAAE,UAAU,CAAC;CACnB;AACD,oBAAY,eAAe,GAAG,kBAAkB,GAAG,oBAAoB,CAAC"}

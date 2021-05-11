@@ -1,0 +1,1 @@
+{"version":3,"file":"resource_serializer.d.ts","sourceRoot":"","sources":["../../../../server/authorization/resource_serializer.ts"],"names":[],"mappings":"AAOA,eAAO,MAAM,mBAAmB,WAAW,CAAC;AAE5C,qBAAa,kBAAkB;WACf,sBAAsB,CAAC,OAAO,EAAE,MAAM;WAItC,wBAAwB,CAAC,QAAQ,EAAE,MAAM;WAQzC,yBAAyB,CAAC,QAAQ,EAAE,MAAM;CAGzD"}

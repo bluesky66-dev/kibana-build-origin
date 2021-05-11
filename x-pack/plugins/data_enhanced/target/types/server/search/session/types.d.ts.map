@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../server/search/session/types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAE/C,oBAAY,YAAY;IACtB,WAAW,gBAAgB;IAC3B,KAAK,UAAU;IACf,QAAQ,aAAa;CACtB;AAED,oBAAY,oBAAoB,GAAG,YAAY,CAAC,QAAQ,CAAC,CAAC,UAAU,CAAC,CAAC"}

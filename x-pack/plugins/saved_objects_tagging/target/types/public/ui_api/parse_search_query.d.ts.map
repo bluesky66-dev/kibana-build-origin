@@ -1,0 +1,1 @@
+{"version":3,"file":"parse_search_query.d.ts","sourceRoot":"","sources":["../../../../public/ui_api/parse_search_query.ts"],"names":[],"mappings":"AASA,OAAO,EAEL,wBAAwB,EACzB,MAAM,6DAA6D,CAAC;AACrE,OAAO,EAAE,UAAU,EAAE,MAAM,aAAa,CAAC;AAEzC,MAAM,WAAW,4BAA4B;IAC3C,KAAK,EAAE,UAAU,CAAC;CACnB;AAED,eAAO,MAAM,qBAAqB,eAE/B,4BAA4B,KAAG,wBAAwB,CAAC,kBAAkB,CAwD5E,CAAC"}

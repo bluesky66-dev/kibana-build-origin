@@ -1,0 +1,1 @@
+{"version":3,"file":"es_migration_apis.d.ts","sourceRoot":"","sources":["../../../../server/lib/es_migration_apis.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,oBAAoB,EAAE,MAAM,iBAAiB,CAAC;AACvD,OAAO,EAGL,sBAAsB,EACvB,MAAM,oBAAoB,CAAC;AAO5B,wBAAsB,yBAAyB,CAC7C,UAAU,EAAE,oBAAoB,EAChC,cAAc,EAAE,OAAO,EACvB,UAAU,EAAE,MAAM,EAAE,GACnB,OAAO,CAAC,sBAAsB,CAAC,CA6BjC"}

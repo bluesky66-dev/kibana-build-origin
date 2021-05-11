@@ -1,0 +1,1 @@
+{"version":3,"file":"lib.d.ts","sourceRoot":"","sources":["../../../../../../server/routes/api/templates/lib.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,oBAAoB,EAA4B,MAAM,oBAAoB,CAAC;AACpF,OAAO,EAAE,iBAAiB,EAAE,MAAM,gBAAgB,CAAC;AAEnD,eAAO,MAAM,iBAAiB;UAKtB,MAAM;uBACO,iBAAiB;;kBAOrC,CAAC;AAEF,eAAO,MAAM,YAAY;cAOb,oBAAoB;uBACX,iBAAiB;;;kBAqCrC,CAAC"}

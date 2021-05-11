@@ -1,0 +1,1 @@
+{"version":3,"file":"install.d.ts","sourceRoot":"","sources":["../../../../../../../server/services/epm/elasticsearch/ilm/install.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,mBAAmB,EAA0B,MAAM,mBAAmB,CAAC;AAGhF,wBAAsB,gBAAgB,CAAC,KAAK,EAAE,MAAM,EAAE,EAAE,WAAW,EAAE,mBAAmB,iBAmBvF;AAKD,wBAAsB,YAAY,CAChC,IAAI,EAAE,MAAM,EACZ,WAAW,EAAE,mBAAmB,GAC/B,OAAO,CAAC,OAAO,CAAC,CAQlB"}

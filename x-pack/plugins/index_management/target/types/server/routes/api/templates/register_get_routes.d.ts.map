@@ -1,0 +1,1 @@
+{"version":3,"file":"register_get_routes.d.ts","sourceRoot":"","sources":["../../../../../../server/routes/api/templates/register_get_routes.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,iBAAiB,EAAE,MAAM,gBAAgB,CAAC;AAGnD,wBAAgB,mBAAmB,CAAC,EAAE,MAAM,EAAE,OAAO,EAAE,EAAE,iBAAiB,QA4BzE;AAWD,wBAAgB,mBAAmB,CAAC,EAAE,MAAM,EAAE,OAAO,EAAE,GAAG,EAAE,EAAE,iBAAiB,QAyD9E"}

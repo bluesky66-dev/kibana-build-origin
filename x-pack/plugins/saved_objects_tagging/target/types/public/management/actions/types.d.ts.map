@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../public/management/actions/types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,MAAM,IAAI,cAAc,EAAE,MAAM,sDAAsD,CAAC;AAChG,OAAO,EAAE,gBAAgB,EAAE,MAAM,iBAAiB,CAAC;AAEnD,oBAAY,SAAS,GAAG,cAAc,CAAC,gBAAgB,CAAC,GAAG;IACzD,EAAE,EAAE,MAAM,CAAC;CACZ,CAAC"}

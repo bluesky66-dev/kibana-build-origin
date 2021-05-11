@@ -1,0 +1,1 @@
+{"version":3,"file":"create_metrics_aggregations.d.ts","sourceRoot":"","sources":["../../../../../../server/lib/metrics/lib/create_metrics_aggregations.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,oBAAoB,EAAE,MAAM,2CAA2C,CAAC;AACjF,OAAO,EAAE,iBAAiB,EAAE,MAAM,yCAAyC,CAAC;AAE5E,eAAO,MAAM,yBAAyB,YAAa,iBAAiB,KAAG,oBAKtE,CAAC"}

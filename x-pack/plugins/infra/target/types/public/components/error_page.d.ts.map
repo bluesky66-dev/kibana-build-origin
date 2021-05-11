@@ -1,0 +1,1 @@
+{"version":3,"file":"error_page.d.ts","sourceRoot":"","sources":["../../../../public/components/error_page.tsx"],"names":[],"mappings":"AAiBA,OAAO,KAAK,MAAM,OAAO,CAAC;AAK1B,UAAU,KAAK;IACb,eAAe,CAAC,EAAE,KAAK,CAAC,SAAS,CAAC;IAClC,KAAK,CAAC,EAAE,MAAM,IAAI,CAAC;IACnB,YAAY,EAAE,KAAK,CAAC,SAAS,CAAC;CAC/B;AAED,eAAO,MAAM,SAAS,EAAE,KAAK,CAAC,EAAE,CAAC,KAAK,CAsCrC,CAAC"}

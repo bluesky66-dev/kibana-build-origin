@@ -1,0 +1,1 @@
+{"version":3,"file":"ui_capabilities_for_features.d.ts","sourceRoot":"","sources":["../../../server/ui_capabilities_for_features.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,YAAY,IAAI,cAAc,EAAE,MAAM,6BAA6B,CAAC;AAC7E,OAAO,EAAE,oBAAoB,EAAE,aAAa,EAAE,MAAM,WAAW,CAAC;AAShE,wBAAgB,yBAAyB,CACvC,cAAc,EAAE,aAAa,EAAE,EAC/B,qBAAqB,EAAE,oBAAoB,EAAE,GAC5C,cAAc,CAKhB"}

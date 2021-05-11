@@ -1,0 +1,1 @@
+{"version":3,"file":"create_route_with_auth.d.ts","sourceRoot":"","sources":["../../../../server/rest_api/create_route_with_auth.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,YAAY,EAAE,MAAM,YAAY,CAAC;AAC1C,OAAO,EAAE,WAAW,EAAE,qBAAqB,EAAkB,MAAM,SAAS,CAAC;AAE7E,eAAO,MAAM,mBAAmB,SACxB,YAAY,gBACJ,qBAAqB,KAClC,WAuCF,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"get_window.d.ts","sourceRoot":"","sources":["../../../../public/lib/get_window.ts"],"names":[],"mappings":"AAcA,eAAO,MAAM,SAAS,QAClB,MAAM,GACN;IACE,UAAU,QAAQ,GAAG,IAAI,CAAC;IAC1B,cAAc,MAAM,CAAC,cAAc,CAAC,CAAC;IACrC,gBAAgB,MAAM,CAAC,gBAAgB,CAAC,CAAC;CAG9C,CAAC"}

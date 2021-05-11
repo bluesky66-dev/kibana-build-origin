@@ -1,0 +1,1 @@
+{"version":3,"file":"action_variables.d.ts","sourceRoot":"","sources":["../../../../../public/application/lib/action_variables.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,cAAc,EAAE,eAAe,EAAE,MAAM,aAAa,CAAC;AAG9D,wBAAgB,wBAAwB,CAAC,eAAe,EAAE,eAAe,GAAG,cAAc,EAAE,CAS3F;AAED,oBAAY,4BAA4B;IACtC,OAAO,YAAY;IACnB,SAAS,cAAc;IACvB,OAAO,YAAY;IACnB,IAAI,SAAS;IACb,eAAe,oBAAoB;CACpC"}

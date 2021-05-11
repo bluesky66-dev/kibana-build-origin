@@ -1,0 +1,1 @@
+{"version":3,"file":"saved_object.d.ts","sourceRoot":"","sources":["../../../../../../server/authorization/privileges/feature_privilege_builder/saved_object.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,uBAAuB,EAAE,MAAM,gCAAgC,CAAC;AACzE,OAAO,EAAE,2BAA2B,EAAE,MAAM,6BAA6B,CAAC;AAmB1E,qBAAa,kCAAmC,SAAQ,2BAA2B;IAC1E,UAAU,CAAC,mBAAmB,EAAE,uBAAuB,GAAG,MAAM,EAAE;CAc1E"}

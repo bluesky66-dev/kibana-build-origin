@@ -1,0 +1,1 @@
+{"version":3,"file":"migrations.d.ts","sourceRoot":"","sources":["../../../../server/saved_objects/migrations.ts"],"names":[],"mappings":"AAOA,OAAO,EACL,uBAAuB,EAIxB,MAAM,gCAAgC,CAAC;AAExC,OAAO,EAAE,gCAAgC,EAAE,MAAM,yCAAyC,CAAC;AAM3F,wBAAgB,aAAa,CAC3B,qBAAqB,EAAE,gCAAgC,GACtD,uBAAuB,CAoBzB"}

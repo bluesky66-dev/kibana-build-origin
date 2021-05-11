@@ -1,0 +1,1 @@
+{"version":3,"file":"add_type_to_termjoin.d.ts","sourceRoot":"","sources":["../../../../common/migrations/add_type_to_termjoin.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,wBAAwB,EAAE,MAAM,0BAA0B,CAAC;AAOpE,wBAAgB,iBAAiB,CAAC,EAChC,UAAU,GACX,EAAE;IACD,UAAU,EAAE,wBAAwB,CAAC;CACtC,GAAG,wBAAwB,CA8B3B"}

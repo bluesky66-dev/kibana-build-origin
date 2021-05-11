@@ -1,0 +1,1 @@
+{"version":3,"file":"navlink.d.ts","sourceRoot":"","sources":["../../../../../../server/authorization/privileges/feature_privilege_builder/navlink.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,uBAAuB,EAAE,MAAM,gCAAgC,CAAC;AACzE,OAAO,EAAE,2BAA2B,EAAE,MAAM,6BAA6B,CAAC;AAE1E,qBAAa,8BAA+B,SAAQ,2BAA2B;IACtE,UAAU,CAAC,mBAAmB,EAAE,uBAAuB,GAAG,MAAM,EAAE;CAG1E"}

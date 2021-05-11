@@ -1,0 +1,1 @@
+{"version":3,"file":"repository.d.ts","sourceRoot":"","sources":["../../../../test/fixtures/repository.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,cAAc,EAAE,MAAM,oBAAoB,CAAC;AAGpD,MAAM,WAAW,UAAU;IACzB,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,cAAc,CAAC;IACrB,QAAQ,EAAE,GAAG,CAAC;CACf;AAED,eAAO,MAAM,aAAa,+BAIvB,QAAQ,UAAU,CAAC,KAAQ,UAI5B,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"mode.d.ts","sourceRoot":"","sources":["../../../../server/authorization/mode.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,gCAAgC,CAAC;AAC/D,OAAO,EAAE,eAAe,EAAE,MAAM,wBAAwB,CAAC;AAEzD,MAAM,WAAW,iBAAiB;IAChC,iBAAiB,CAAC,OAAO,EAAE,aAAa,GAAG,OAAO,CAAC;CACpD;AAED,wBAAgB,wBAAwB,CAAC,OAAO,EAAE,eAAe;+BAGlC,aAAa;EAQ3C"}

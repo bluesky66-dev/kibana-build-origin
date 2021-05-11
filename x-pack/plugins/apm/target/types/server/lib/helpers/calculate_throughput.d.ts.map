@@ -1,0 +1,1 @@
+{"version":3,"file":"calculate_throughput.d.ts","sourceRoot":"","sources":["../../../../../server/lib/helpers/calculate_throughput.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,cAAc,EAAE,MAAM,iBAAiB,CAAC;AAEjD,wBAAgB,mBAAmB,CAAC,EAClC,KAAK,EACL,GAAG,EACH,KAAK,GACN,EAAE,cAAc,GAAG;IAAE,KAAK,EAAE,MAAM,CAAA;CAAE,UAGpC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"register_log_threshold_alert_type.d.ts","sourceRoot":"","sources":["../../../../../../server/lib/alerting/log_threshold/register_log_threshold_alert_type.ts"],"names":[],"mappings":"AAQA,OAAO,EACL,mBAAmB,EAMpB,MAAM,8BAA8B,CAAC;AAMtC,OAAO,EAAE,gBAAgB,EAAE,MAAM,mBAAmB,CAAC;AA2DrD,wBAAsB,6BAA6B,CACjD,cAAc,EAAE,mBAAmB,EACnC,IAAI,EAAE,gBAAgB,iBA8CvB"}

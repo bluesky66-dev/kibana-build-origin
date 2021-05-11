@@ -1,0 +1,1 @@
+{"version":3,"file":"create.d.ts","sourceRoot":"","sources":["../../../../server/routes/create.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,OAAO,EAAE,MAAM,eAAe,CAAC;AACxC,OAAO,EAAgB,4BAA4B,EAAE,MAAM,UAAU,CAAC;AACtE,OAAO,EAAE,aAAa,EAAqD,MAAM,QAAQ,CAAC;AAG1F,eAAO,MAAM,UAAU;;;;;EAKrB,CAAC;AAEH,eAAO,MAAM,iBAAiB,WACpB,QAAQ,4BAA4B,CAAC,gBAC/B,aAAa,SA8B5B,CAAC"}

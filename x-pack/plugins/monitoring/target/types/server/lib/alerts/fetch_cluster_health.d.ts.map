@@ -1,0 +1,1 @@
+{"version":3,"file":"fetch_cluster_health.d.ts","sourceRoot":"","sources":["../../../../../server/lib/alerts/fetch_cluster_health.ts"],"names":[],"mappings":"AAMA,OAAO,EAAE,YAAY,EAAE,kBAAkB,EAAE,MAAM,8BAA8B,CAAC;AAGhF,wBAAsB,kBAAkB,CACtC,WAAW,EAAE,GAAG,EAChB,QAAQ,EAAE,YAAY,EAAE,EACxB,KAAK,EAAE,MAAM,GACZ,OAAO,CAAC,kBAAkB,EAAE,CAAC,CAuD/B"}

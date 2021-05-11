@@ -1,0 +1,1 @@
+{"version":3,"file":"feature_schema.d.ts","sourceRoot":"","sources":["../../../server/feature_schema.ts"],"names":[],"mappings":"AAWA,OAAO,EAAE,mBAAmB,EAAE,MAAM,WAAW,CAAC;AAChD,OAAO,EAA2B,0BAA0B,EAAE,MAAM,GAAG,CAAC;AAUxE,eAAO,MAAM,mBAAmB,QAAsB,CAAC;AAuIvD,wBAAgB,qBAAqB,CAAC,OAAO,EAAE,mBAAmB,QAyLjE;AAED,wBAAgB,4BAA4B,CAAC,OAAO,EAAE,0BAA0B,QAwB/E"}

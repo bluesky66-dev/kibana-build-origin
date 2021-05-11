@@ -1,0 +1,1 @@
+{"version":3,"file":"nav_link.d.ts","sourceRoot":"","sources":["../../../../public/services/nav_link.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,oBAAoB,EAAE,MAAM,GAAG,CAAC;AAIzC,MAAM,WAAW,cAAc;IAC7B,UAAU,EAAE,CAAC,IAAI,EAAE,MAAM,KAAK,IAAI,CAAC;CACpC;AAED,eAAO,MAAM,qBAAqB,EAAE,oBAAoB,CAAC,cAAc,CAgBtE,CAAC"}

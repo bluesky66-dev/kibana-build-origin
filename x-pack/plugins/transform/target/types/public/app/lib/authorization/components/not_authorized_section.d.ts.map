@@ -1,0 +1,1 @@
+{"version":3,"file":"not_authorized_section.d.ts","sourceRoot":"","sources":["../../../../../../../public/app/lib/authorization/components/not_authorized_section.tsx"],"names":[],"mappings":"AAOA,OAAO,KAAK,MAAM,OAAO,CAAC;AAG1B,UAAU,KAAK;IACb,KAAK,EAAE,KAAK,CAAC,SAAS,CAAC;IACvB,OAAO,EAAE,KAAK,CAAC,SAAS,GAAG,MAAM,CAAC;CACnC;AAED,eAAO,MAAM,oBAAoB,uBAAwB,KAAK,gBAE7D,CAAC"}

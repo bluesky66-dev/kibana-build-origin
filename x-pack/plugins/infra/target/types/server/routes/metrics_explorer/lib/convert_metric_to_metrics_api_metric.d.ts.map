@@ -1,0 +1,1 @@
+{"version":3,"file":"convert_metric_to_metrics_api_metric.d.ts","sourceRoot":"","sources":["../../../../../../server/routes/metrics_explorer/lib/convert_metric_to_metrics_api_metric.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,gBAAgB,EAAE,qBAAqB,EAAE,MAAM,6BAA6B,CAAC;AAEtF,eAAO,MAAM,+BAA+B,WAClC,qBAAqB,SACtB,MAAM,KACZ,gBAAgB,GAAG,SAoDrB,CAAC"}

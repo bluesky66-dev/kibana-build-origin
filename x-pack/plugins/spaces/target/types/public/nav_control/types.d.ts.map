@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../public/nav_control/types.tsx"],"names":[],"mappings":";AAOA,MAAM,WAAW,WAAW;IAC1B,mBAAmB,EAAE,MAAM,IAAI,CAAC;IAChC,QAAQ,EAAE,GAAG,CAAC,OAAO,CAAC;IACtB,SAAS,EAAE,MAAM,CAAC;IAClB,kBAAkB,EAAE,OAAO,CAAC;CAC7B"}

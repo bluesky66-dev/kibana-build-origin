@@ -1,0 +1,1 @@
+{"version":3,"file":"math.d.ts","sourceRoot":"","sources":["../../../../../canvas_plugin_src/functions/common/math.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,SAAS,EAAe,4BAA4B,EAAE,MAAM,gBAAgB,CAAC;AAGtF,UAAU,SAAS;IACjB,UAAU,EAAE,MAAM,CAAC;CACpB;AAED,aAAK,KAAK,GAAG,MAAM,GAAG,SAAS,CAAC;AAEhC,wBAAgB,IAAI,IAAI,4BAA4B,CAAC,MAAM,EAAE,KAAK,EAAE,SAAS,EAAE,MAAM,CAAC,CAmDrF"}

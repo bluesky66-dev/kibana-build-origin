@@ -1,0 +1,1 @@
+{"version":3,"file":"index_pattern.d.ts","sourceRoot":"","sources":["../../../../../public/state/reducers/index_pattern.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,aAAa,EAAE,MAAM,0DAA0D,CAAC;AAEzF,MAAM,WAAW,iBAAiB;IAChC,aAAa,EAAE,aAAa,GAAG,IAAI,CAAC;IACpC,MAAM,EAAE,GAAG,EAAE,CAAC;IACd,OAAO,EAAE,OAAO,CAAC;CAClB;AAQD,eAAO,MAAM,mBAAmB,sFAoB/B,CAAC"}

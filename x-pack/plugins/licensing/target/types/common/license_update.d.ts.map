@@ -1,0 +1,1 @@
+{"version":3,"file":"license_update.d.ts","sourceRoot":"","sources":["../../../common/license_update.ts"],"names":[],"mappings":"AAOA,OAAO,EAAyB,UAAU,EAAwB,MAAM,MAAM,CAAC;AAa/E,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAEnC,wBAAgB,mBAAmB,CACjC,eAAe,EAAE,UAAU,CAAC,OAAO,CAAC,EACpC,KAAK,EAAE,UAAU,CAAC,OAAO,CAAC,EAC1B,OAAO,EAAE,MAAM,OAAO,CAAC,QAAQ,CAAC,EAChC,aAAa,CAAC,EAAE,QAAQ;;;EA+BzB"}

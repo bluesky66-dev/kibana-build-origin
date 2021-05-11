@@ -1,0 +1,1 @@
+{"version":3,"file":"http_api_types.d.ts","sourceRoot":"","sources":["../../../common/http_api_types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,gBAAgB,EAAE,MAAM,eAAe,CAAC;AAEjD,MAAM,WAAW,4BAA4B;IAC3C,OAAO,EAAE,gBAAgB,EAAE,CAAC;CAC7B;AAED,MAAM,WAAW,0BAA0B;IACzC,KAAK,EAAE,MAAM,EAAE,CAAC;CACjB"}

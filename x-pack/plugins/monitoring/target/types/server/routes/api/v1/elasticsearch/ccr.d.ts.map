@@ -1,0 +1,1 @@
+{"version":3,"file":"ccr.d.ts","sourceRoot":"","sources":["../../../../../../../server/routes/api/v1/elasticsearch/ccr.ts"],"names":[],"mappings":"AAqLA,wBAAgB,QAAQ,CAAC,MAAM,EAAE;IAC/B,KAAK,EAAE,CAAC,CAAC,EAAE,GAAG,KAAK,IAAI,CAAC;IACxB,MAAM,EAAE,MAAM;QACZ,GAAG,EAAE,CAAC,GAAG,EAAE,MAAM,KAAK,MAAM,GAAG,SAAS,CAAC;KAC1C,CAAC;CACH,QA2HA"}

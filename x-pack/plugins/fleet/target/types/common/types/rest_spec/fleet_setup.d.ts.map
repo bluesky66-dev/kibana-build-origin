@@ -1,0 +1,1 @@
+{"version":3,"file":"fleet_setup.d.ts","sourceRoot":"","sources":["../../../../../common/types/rest_spec/fleet_setup.ts"],"names":[],"mappings":"AAOA,MAAM,WAAW,wBAAwB;IACvC,aAAa,EAAE,OAAO,CAAC;CACxB;AAED,MAAM,WAAW,sBAAsB;IACrC,OAAO,EAAE,OAAO,CAAC;IACjB,oBAAoB,EAAE,KAAK,CACvB,cAAc,GACd,UAAU,GACV,kBAAkB,GAClB,gDAAgD,CACnD,CAAC;CACH"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"helper.d.ts","sourceRoot":"","sources":["../../../../../../server/lib/settings/custom_link/helper.ts"],"names":[],"mappings":"AAQA,OAAO,EACL,YAAY,EACZ,UAAU,EACV,MAAM,EAEP,MAAM,kDAAkD,CAAC;AAE1D,wBAAgB,YAAY,CAAC,YAAY,EAAE,YAAY,GAAG,UAAU,CAcnE;AAED,wBAAgB,UAAU,CAAC,UAAU,EAAE,UAAU,GAAG,YAAY,CAS/D;AAED,wBAAgB,uBAAuB,CAAC,WAAW,EAAE,MAAM,CAAC,OAAO,CAAC,YAKnE"}

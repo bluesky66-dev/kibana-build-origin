@@ -1,0 +1,1 @@
+{"version":3,"file":"element_strings.d.ts","sourceRoot":"","sources":["../../../../i18n/elements/element_strings.ts"],"names":[],"mappings":"AASA,UAAU,cAAc;IACtB,WAAW,EAAE,MAAM,CAAC;IACpB,IAAI,EAAE,MAAM,CAAC;CACd;AAED,UAAU,iBAAiB;IACzB,CAAC,WAAW,EAAE,MAAM,GAAG,cAAc,CAAC;CACvC;AAED;;;;GAIG;AACH,eAAO,MAAM,iBAAiB,QAAO,iBAyMnC,CAAC"}

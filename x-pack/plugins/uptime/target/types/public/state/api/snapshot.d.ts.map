@@ -1,0 +1,1 @@
+{"version":3,"file":"snapshot.d.ts","sourceRoot":"","sources":["../../../../../public/state/api/snapshot.ts"],"names":[],"mappings":"AAOA,OAAO,EAAgB,QAAQ,EAAE,MAAM,+BAA+B,CAAC;AAIvE,MAAM,WAAW,mBAAmB;IAClC,cAAc,EAAE,MAAM,CAAC;IACvB,YAAY,EAAE,MAAM,CAAC;IACrB,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,YAAY,CAAC,EAAE,MAAM,CAAC;CACvB;AAED,eAAO,MAAM,kBAAkB,6DAK5B,mBAAmB,KAAG,QAAQ,QAAQ,CASxC,CAAC"}

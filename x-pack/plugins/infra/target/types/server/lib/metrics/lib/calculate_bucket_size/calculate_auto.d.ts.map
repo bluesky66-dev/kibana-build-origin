@@ -1,0 +1,1 @@
+{"version":3,"file":"calculate_auto.d.ts","sourceRoot":"","sources":["../../../../../../../server/lib/metrics/lib/calculate_bucket_size/calculate_auto.ts"],"names":[],"mappings":"AAOA,OAAO,MAAM,EAAE,EAAc,QAAQ,EAAE,MAAM,QAAQ,CAAC;AAgEtD,eAAO,MAAM,aAAa;oBANP,MAAM,YAAY,QAAQ;wBAA1B,MAAM,YAAY,QAAQ;uBAA1B,MAAM,YAAY,QAAQ;CAuB5C,CAAC"}

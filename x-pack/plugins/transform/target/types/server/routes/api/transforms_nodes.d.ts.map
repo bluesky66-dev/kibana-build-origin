@@ -1,0 +1,1 @@
+{"version":3,"file":"transforms_nodes.d.ts","sourceRoot":"","sources":["../../../../../server/routes/api/transforms_nodes.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,iBAAiB,EAAE,MAAM,aAAa,CAAC;AAQhD,UAAU,eAAe;IACvB,KAAK,EAAE,MAAM,EAAE,CAAC;CACjB;AAGD,eAAO,MAAM,OAAO,QAAS,OAAO,2CAUnC,CAAC;AAEF,wBAAgB,4BAA4B,CAAC,EAAE,MAAM,EAAE,OAAO,EAAE,EAAE,iBAAiB,QAoClF"}

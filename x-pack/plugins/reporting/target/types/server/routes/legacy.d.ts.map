@@ -1,0 +1,1 @@
+{"version":3,"file":"legacy.d.ts","sourceRoot":"","sources":["../../../../server/routes/legacy.ts"],"names":[],"mappings":"AAWA,OAAO,EAAE,oBAAoB,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAChE,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AACxC,OAAO,EAAE,WAAW,EAAE,MAAM,QAAQ,CAAC;AAIrC,wBAAgB,cAAc,CAC5B,SAAS,EAAE,aAAa,EACxB,OAAO,EAAE,eAAe,EACxB,WAAW,EAAE,oBAAoB,EACjC,MAAM,EAAE,WAAW,QAkEpB"}

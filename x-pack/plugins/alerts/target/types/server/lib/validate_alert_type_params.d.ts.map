@@ -1,0 +1,1 @@
+{"version":3,"file":"validate_alert_type_params.d.ts","sourceRoot":"","sources":["../../../../server/lib/validate_alert_type_params.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,eAAe,EAAE,wBAAwB,EAAE,MAAM,UAAU,CAAC;AAErE,wBAAgB,uBAAuB,CAAC,MAAM,SAAS,eAAe,EACpE,MAAM,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,EAC/B,SAAS,CAAC,EAAE,wBAAwB,CAAC,MAAM,CAAC,GAC3C,MAAM,CAUR"}

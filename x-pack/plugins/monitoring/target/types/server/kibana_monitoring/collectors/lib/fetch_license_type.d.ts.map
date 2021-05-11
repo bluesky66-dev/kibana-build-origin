@@ -1,0 +1,1 @@
+{"version":3,"file":"fetch_license_type.d.ts","sourceRoot":"","sources":["../../../../../../server/kibana_monitoring/collectors/lib/fetch_license_type.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,eAAe,EAAE,MAAM,iBAAiB,CAAC;AAIlD,wBAAsB,gBAAgB,CACpC,WAAW,EAAE,eAAe,EAC5B,YAAY,EAAE,MAAM,EAAE,EACtB,WAAW,EAAE,MAAM,gBA2CpB"}

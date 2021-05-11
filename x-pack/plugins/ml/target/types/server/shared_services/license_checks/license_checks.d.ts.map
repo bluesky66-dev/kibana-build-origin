@@ -1,0 +1,1 @@
+{"version":3,"file":"license_checks.d.ts","sourceRoot":"","sources":["../../../../../server/shared_services/license_checks/license_checks.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,yBAAyB,CAAC;AAGpD,oBAAY,YAAY,GAAG,MAAM,IAAI,CAAC;AAEtC,wBAAgB,aAAa,CAC3B,SAAS,EAAE,SAAS,GACnB;IAAE,aAAa,EAAE,YAAY,CAAC;IAAC,gBAAgB,EAAE,YAAY,CAAA;CAAE,CAajE"}

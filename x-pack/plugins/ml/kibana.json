@@ -1,0 +1,47 @@
+{
+  "id": "ml",
+  "version": "8.0.0",
+  "kibanaVersion": "kibana",
+  "configPath": [
+    "xpack",
+    "ml"
+  ],
+  "requiredPlugins": [
+    "data",
+    "cloud",
+    "features",
+    "fileUpload",
+    "licensing",
+    "share",
+    "embeddable",
+    "uiActions",
+    "kibanaLegacy",
+    "indexPatternManagement",
+    "discover",
+    "triggersActionsUi"
+  ],
+  "optionalPlugins": [
+    "alerts",
+    "home",
+    "security",
+    "spaces",
+    "management",
+    "licenseManagement",
+    "maps",
+    "lens"
+  ],
+  "server": true,
+  "ui": true,
+  "requiredBundles": [
+    "esUiShared",
+    "kibanaUtils",
+    "kibanaReact",
+    "dashboard",
+    "savedObjects",
+    "home",
+    "maps"
+  ],
+  "extraPublicDirs": [
+    "common"
+  ]
+}

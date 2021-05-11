@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../server/usage/types.ts"],"names":[],"mappings":"AAOA;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC/B,QAAQ,EAAE,MAAM,CAAC;IACjB,aAAa,EAAE,MAAM,CAAC;IACtB,KAAK,EAAE,MAAM,CAAC,MAAM,EAAE,sBAAsB,CAAC,CAAC;CAC/C;AAED;;GAEG;AACH,MAAM,WAAW,sBAAsB;IACrC,QAAQ,EAAE,MAAM,CAAC;IACjB,aAAa,EAAE,MAAM,CAAC;CACvB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"search.d.ts","sourceRoot":"","sources":["../../../../server/routes/search.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,OAAO,EAAE,MAAM,eAAe,CAAC;AAExC,OAAO,EAAE,YAAY,EAAmB,MAAM,sBAAsB,CAAC;AAGrE,wBAAgB,mBAAmB,CAAC,EAClC,MAAM,EACN,YAAY,GACb,EAAE;IACD,MAAM,EAAE,OAAO,CAAC;IAChB,YAAY,EAAE,YAAY,CAAC;CAC5B,QAiDA"}

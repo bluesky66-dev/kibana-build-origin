@@ -1,0 +1,1 @@
+{"version":3,"file":"app.d.ts","sourceRoot":"","sources":["../../../../public/application/app.tsx"],"names":[],"mappings":"AASA,OAAO,EAAE,aAAa,EAAE,gBAAgB,EAAE,MAAM,eAAe,CAAC;AAShE,eAAO,MAAM,aAAa;aAKf,aAAa;mBACP,gBAAgB,CAAC,eAAe,CAAC;kBAClC,gBAAgB,CAAC,cAAc,CAAC;iBAK/C,CAAC;AAEF,eAAO,MAAM,GAAG;mBAIC,gBAAgB,CAAC,eAAe,CAAC;kBAClC,gBAAgB,CAAC,cAAc,CAAC;iBAkB/C,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"workpad_attributes.d.ts","sourceRoot":"","sources":["../../../../../server/routes/workpad/workpad_attributes.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAE/C,oBAAY,iBAAiB,GAAG,IAAI,CAAC,aAAa,EAAE,OAAO,CAAC,MAAM,aAAa,EAAE,IAAI,CAAC,CAAC,GAAG;IACxF,YAAY,EAAE,MAAM,CAAC;IACrB,UAAU,EAAE,MAAM,CAAC;CACpB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"transform_snapshot_metrics_to_metrics_api_metrics.d.ts","sourceRoot":"","sources":["../../../../../../server/routes/snapshot/lib/transform_snapshot_metrics_to_metrics_api_metrics.ts"],"names":[],"mappings":"AASA,OAAO,EACL,gBAAgB,EAChB,eAAe,EAEhB,MAAM,6BAA6B,CAAC;AAErC,eAAO,MAAM,2CAA2C,oBACrC,eAAe,KAC/B,gBAAgB,EAwBlB,CAAC"}

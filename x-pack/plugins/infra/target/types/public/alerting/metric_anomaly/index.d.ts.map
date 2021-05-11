@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../public/alerting/metric_anomaly/index.ts"],"names":[],"mappings":"AAWA,OAAO,EAAE,cAAc,EAAE,MAAM,8CAA8C,CAAC;AAC9E,OAAO,EAAE,eAAe,EAAE,MAAM,2BAA2B,CAAC;AAG5D,UAAU,4BAA6B,SAAQ,eAAe;IAC5D,sBAAsB,EAAE,OAAO,CAAC;CACjC;AAED,wBAAgB,4BAA4B,IAAI,cAAc,CAAC,4BAA4B,CAAC,CA0B3F"}

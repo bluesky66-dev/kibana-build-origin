@@ -1,0 +1,1 @@
+{"version":3,"file":"kibana.index.d.ts","sourceRoot":"","sources":["../../../server/kibana.index.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,MAAM,EAAE,MAAM,YAAY,CAAC;AACpC,OAAO,YAAY,MAAM,KAAK,CAAC;AAE/B,MAAM,WAAW,SAAU,SAAQ,MAAM;IACvC,KAAK,EAAE,GAAG,CAAC;CACZ;AAGD,eAAO,MAAM,eAAe,QAAS,mBAAmB,8BA6BvD,CAAC"}

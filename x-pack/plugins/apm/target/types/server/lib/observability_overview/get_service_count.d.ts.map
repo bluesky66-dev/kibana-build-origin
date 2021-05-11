@@ -1,0 +1,1 @@
+{"version":3,"file":"get_service_count.d.ts","sourceRoot":"","sources":["../../../../../server/lib/observability_overview/get_service_count.ts"],"names":[],"mappings":"AAUA,OAAO,EAAE,KAAK,EAAE,cAAc,EAAE,MAAM,0BAA0B,CAAC;AAIjE,wBAAgB,eAAe,CAAC,EAC9B,KAAK,EACL,4BAA4B,GAC7B,EAAE;IACD,KAAK,EAAE,KAAK,GAAG,cAAc,CAAC;IAC9B,4BAA4B,EAAE,OAAO,CAAC;CACvC,mBA4BA"}

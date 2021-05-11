@@ -1,0 +1,1 @@
+{"version":3,"file":"get_index_status.d.ts","sourceRoot":"","sources":["../../../../../server/lib/requests/get_index_status.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,sBAAsB,EAAE,MAAM,aAAa,CAAC;AACrD,OAAO,EAAE,iBAAiB,EAAE,MAAM,+BAA+B,CAAC;AAElE,eAAO,MAAM,cAAc,EAAE,sBAAsB,CAAC,EAAE,EAAE,iBAAiB,CAaxE,CAAC"}

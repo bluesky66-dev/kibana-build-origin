@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../server/alert_types/geo_containment/index.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AACzC,OAAO,EAAE,aAAa,EAAE,MAAM,aAAa,CAAC;AAW5C,UAAU,cAAc;IACtB,MAAM,EAAE,MAAM,CAAC;IACf,MAAM,EAAE,aAAa,CAAC;CACvB;AAED,wBAAgB,QAAQ,CAAC,MAAM,EAAE,cAAc,QAU9C"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ping.d.ts","sourceRoot":"","sources":["../../../../../public/state/api/ping.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAChC,OAAO,EAEL,aAAa,EACb,cAAc,EACd,sBAAsB,EACtB,eAAe,EAChB,MAAM,+BAA+B,CAAC;AAIvC,eAAO,MAAM,UAAU,EAAE,KAAK,CAAC,cAAc,EAAE,aAAa,CAG4B,CAAC;AAEzF,eAAO,MAAM,kBAAkB,EAAE,KAAK,CAAC,sBAAsB,EAAE,eAAe,CAgB7E,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"date.d.ts","sourceRoot":"","sources":["../../../../../i18n/functions/dict/date.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,IAAI,EAAE,MAAM,kDAAkD,CAAC;AACxE,OAAO,EAAE,YAAY,EAAE,MAAM,kBAAkB,CAAC;AAChD,OAAO,EAAE,eAAe,EAAE,MAAM,gBAAgB,CAAC;AAGjD,eAAO,MAAM,IAAI,EAAE,YAAY,CAAC,eAAe,CAAC,OAAO,IAAI,CAAC,CA2B3D,CAAC;AAEF,eAAO,MAAM,MAAM;gCACW,MAAM,GAAG,IAAI;CAS1C,CAAC"}

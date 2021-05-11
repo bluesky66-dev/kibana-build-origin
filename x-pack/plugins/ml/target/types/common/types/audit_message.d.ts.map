@@ -1,0 +1,1 @@
+{"version":3,"file":"audit_message.d.ts","sourceRoot":"","sources":["../../../../common/types/audit_message.ts"],"names":[],"mappings":"AAOA,MAAM,WAAW,gBAAgB;IAC/B,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,MAAM,CAAC;IAClB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,CAAC,EAAE,MAAM,CAAC;CACf;AAED,MAAM,WAAW,UAAW,SAAQ,gBAAgB;IAClD,MAAM,EAAE,MAAM,CAAC;CAChB"}

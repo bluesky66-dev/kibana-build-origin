@@ -1,0 +1,1 @@
+{"version":3,"file":"security.d.ts","sourceRoot":"","sources":["../../../../../server/routes/workplace_search/security.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,iBAAiB,EAAE,MAAM,cAAc,CAAC;AAEjD,wBAAgB,qBAAqB,CAAC,EACpC,MAAM,EACN,8BAA8B,GAC/B,EAAE,iBAAiB,QAUnB;AAED,wBAAgB,uCAAuC,CAAC,EACtD,MAAM,EACN,8BAA8B,GAC/B,EAAE,iBAAiB,QA4CnB;AAED,eAAO,MAAM,sBAAsB,iBAAkB,iBAAiB,SAGrE,CAAC"}

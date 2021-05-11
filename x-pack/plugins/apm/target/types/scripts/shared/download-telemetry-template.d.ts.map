@@ -1,0 +1,1 @@
+{"version":3,"file":"download-telemetry-template.d.ts","sourceRoot":"","sources":["../../../../scripts/shared/download-telemetry-template.ts"],"names":[],"mappings":"AASA,wBAAsB,yBAAyB,CAAC,EAC9C,WAAW,GACZ,EAAE;IACD,WAAW,EAAE,MAAM,CAAC;CACrB;oBAkBmB,MAAM,EAAE;cACd;QACR,UAAU,EAAE,OAAO,MAAM,EAAE,GAAG,CAAC,CAAC;KACjC;cACS,OAAO,MAAM,EAAE,GAAG,CAAC;GAEhC"}

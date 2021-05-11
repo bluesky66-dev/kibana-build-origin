@@ -1,0 +1,1 @@
+{"version":3,"file":"get_internal_saved_objects_client.d.ts","sourceRoot":"","sources":["../../../../../server/lib/helpers/get_internal_saved_objects_client.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAC5C,OAAO,EAAE,iBAAiB,EAAE,MAAM,0CAA0C,CAAC;AAG7E,oBAAY,0BAA0B,GAAG,iBAAiB,CACxD,OAAO,6BAA6B,CACrC,CAAC;AACF,wBAAsB,6BAA6B,CAAC,IAAI,EAAE,SAAS,8WAMlE"}

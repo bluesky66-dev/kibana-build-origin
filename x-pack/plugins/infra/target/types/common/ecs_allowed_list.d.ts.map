@@ -1,0 +1,1 @@
+{"version":3,"file":"ecs_allowed_list.d.ts","sourceRoot":"","sources":["../../../common/ecs_allowed_list.ts"],"names":[],"mappings":"AASA,eAAO,MAAM,gBAAgB,UAe5B,CAAC;AAEF,eAAO,MAAM,gBAAgB,UAY5B,CAAC;AAEF,eAAO,MAAM,uBAAuB,UAA8C,CAAC;AAEnF,eAAO,MAAM,mBAAmB,UAK/B,CAAC;AAEF,eAAO,MAAM,mBAAmB,UAAa,CAAC;AAC9C,eAAO,MAAM,wBAAwB,UAAqB,CAAC;AAE3D,eAAO,MAAM,uBAAuB,YAAoB,MAAM,kDAkB5D,CAAC"}

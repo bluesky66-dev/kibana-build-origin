@@ -1,0 +1,1 @@
+{"version":3,"file":"section_error.d.ts","sourceRoot":"","sources":["../../../../../public/app/components/section_error.tsx"],"names":[],"mappings":"AAQA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B,UAAU,KAAK;IACb,KAAK,EAAE,KAAK,CAAC,SAAS,CAAC;IACvB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;IACpB,OAAO,CAAC,EAAE,GAAG,CAAC,OAAO,CAAC;CACvB;AAED,eAAO,MAAM,YAAY,EAAE,KAAK,CAAC,iBAAiB,CAAC,KAAK,CAcvD,CAAC"}

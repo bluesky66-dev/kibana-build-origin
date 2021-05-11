@@ -1,0 +1,1 @@
+{"version":3,"file":"search.d.ts","sourceRoot":"","sources":["../../../../common/constants/search.ts"],"names":[],"mappings":"AAOA,eAAO,MAAM,oCAAoC,MAAM,CAAC;AACxD,eAAO,MAAM,kCAAkC,MAAM,CAAC;AAEtD,eAAO,MAAM,qBAAqB;;;CAGxB,CAAC;AAEX,oBAAY,mBAAmB,GAAG,OAAO,qBAAqB,CAAC,MAAM,OAAO,qBAAqB,CAAC,CAAC;AAEnG,MAAM,WAAW,YAAY;IAC3B,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,EAAE,MAAM,CAAC;CACjB"}

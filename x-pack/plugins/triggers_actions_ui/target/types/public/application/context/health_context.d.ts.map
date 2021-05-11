@@ -1,0 +1,1 @@
+{"version":3,"file":"health_context.d.ts","sourceRoot":"","sources":["../../../../../public/application/context/health_context.tsx"],"names":[],"mappings":"AAOA,OAAO,KAAoE,MAAM,OAAO,CAAC;AAEzF,MAAM,WAAW,kBAAkB;IACjC,kBAAkB,EAAE,OAAO,CAAC;IAC5B,qBAAqB,EAAE,CAAC,OAAO,EAAE,OAAO,KAAK,IAAI,CAAC;CACnD;AAaD,eAAO,MAAM,qBAAqB;cAA8B,MAAM,SAAS;iBAY9E,CAAC;AAEF,eAAO,MAAM,gBAAgB,0BAM5B,CAAC"}

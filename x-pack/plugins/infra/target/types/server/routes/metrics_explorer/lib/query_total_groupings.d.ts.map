@@ -1,0 +1,1 @@
+{"version":3,"file":"query_total_groupings.d.ts","sourceRoot":"","sources":["../../../../../../server/routes/metrics_explorer/lib/query_total_groupings.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,iBAAiB,EAAE,MAAM,6BAA6B,CAAC;AAChE,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAQ5D,eAAO,MAAM,mBAAmB,WACtB,cAAc,WACb,iBAAiB,KACzB,QAAQ,MAAM,CAuChB,CAAC"}

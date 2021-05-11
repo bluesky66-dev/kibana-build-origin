@@ -1,0 +1,9 @@
+$visEditorSidebarMinWidth: 350px;
+
+// Main layout
+@import './default';
+@import './sidebar';
+
+// Components
+@import './agg';
+@import './agg_params';

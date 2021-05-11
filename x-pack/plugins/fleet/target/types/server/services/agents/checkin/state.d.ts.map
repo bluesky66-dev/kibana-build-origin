@@ -1,0 +1,1 @@
+{"version":3,"file":"state.d.ts","sourceRoot":"","sources":["../../../../../../server/services/agents/checkin/state.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,mBAAmB,EAAE,0BAA0B,EAAE,MAAM,iBAAiB,CAAC;AAClF,OAAO,EAAE,KAAK,EAAE,MAAM,gBAAgB,CAAC;AAgDvC,eAAO,MAAM,iBAAiB;sCAnBd,0BAA0B,YAC1B,mBAAmB,SACtB,KAAK;gBACQ,WAAW;;;;CAgBsB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"flattenObject.d.ts","sourceRoot":"","sources":["../../../../public/utils/flattenObject.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,KAAK,EAAE,MAAM,sBAAsB,CAAC;AAE7C,MAAM,WAAW,YAAY;IAC3B,GAAG,EAAE,MAAM,CAAC;IACZ,KAAK,EAAE,OAAO,CAAC;CAChB;AAED,eAAO,MAAM,aAAa,SAClB,MAAM,OAAO,MAAM,EAAE,GAAG,GAAG,GAAG,EAAE,CAAC,CAAC,qCAEvC,YAAY,EAkBd,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"context.d.ts","sourceRoot":"","sources":["../../../../../public/components/router/context.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,MAAM,OAAO,CAAC;AAI1B,UAAU,MAAM;IACd,UAAU,EAAE,CACV,IAAI,EAAE,MAAM,EACZ,MAAM,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,GAAG,MAAM,CAAC,EACvC,KAAK,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC,KAC3B,IAAI,CAAC;CACX;AAED,eAAO,MAAM,aAAa,mCAAqD,CAAC"}

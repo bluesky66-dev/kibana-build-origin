@@ -1,0 +1,1 @@
+{"version":3,"file":"usage_collector.d.ts","sourceRoot":"","sources":["../../../../server/telemetry/usage_collector.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAE1C,OAAO,EAAE,oBAAoB,EAAE,MAAM,qCAAqC,CAAC;AAK3E,wBAAgB,uBAAuB,CACrC,SAAS,EAAE,SAAS,EACpB,eAAe,EAAE,oBAAoB,QAOtC"}

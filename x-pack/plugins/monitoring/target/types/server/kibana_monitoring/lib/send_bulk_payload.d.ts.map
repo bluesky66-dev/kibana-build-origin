@@ -1,0 +1,1 @@
+{"version":3,"file":"send_bulk_payload.d.ts","sourceRoot":"","sources":["../../../../../server/kibana_monitoring/lib/send_bulk_payload.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,iBAAiB,CAAC;AAM3D,wBAAsB,eAAe,CACnC,QAAQ,EAAE,mBAAmB,EAC7B,QAAQ,EAAE,MAAM,EAChB,OAAO,EAAE,MAAM,EAAE,gCASlB"}

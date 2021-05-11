@@ -1,0 +1,1 @@
+{"version":3,"file":"dynamic_settings.d.ts","sourceRoot":"","sources":["../../../../../public/state/api/dynamic_settings.ts"],"names":[],"mappings":"AAOA,OAAO,EAEL,eAAe,EACf,2BAA2B,EAE5B,MAAM,+BAA+B,CAAC;AAKvC,UAAU,cAAc;IACtB,QAAQ,EAAE,eAAe,CAAC;CAC3B;AAED,eAAO,MAAM,kBAAkB,QAAa,QAAQ,eAAe,CAElE,CAAC;AAEF,eAAO,MAAM,kBAAkB,kBAE5B,cAAc,KAAG,QAAQ,2BAA2B,CAEtD,CAAC"}

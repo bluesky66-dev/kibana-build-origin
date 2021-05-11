@@ -1,0 +1,1 @@
+{"version":3,"file":"validate_feature_privileges.d.ts","sourceRoot":"","sources":["../../../../server/authorization/validate_feature_privileges.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAC;AAEzD,wBAAgB,yBAAyB,CAAC,QAAQ,EAAE,aAAa,EAAE,QAsBlE"}

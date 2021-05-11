@@ -1,0 +1,1 @@
+{"version":3,"file":"section_loading.d.ts","sourceRoot":"","sources":["../../../../../public/app/components/section_loading.tsx"],"names":[],"mappings":"AAOA,OAAO,KAAK,MAAM,OAAO,CAAC;AAW1B,UAAU,KAAK;IACb,MAAM,CAAC,EAAE,OAAO,CAAC;IACjB,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC;IAC1B,CAAC,GAAG,EAAE,MAAM,GAAG,GAAG,CAAC;CACpB;AAED,eAAO,MAAM,cAAc,EAAE,KAAK,CAAC,iBAAiB,CAAC,KAAK,CAuBzD,CAAC"}

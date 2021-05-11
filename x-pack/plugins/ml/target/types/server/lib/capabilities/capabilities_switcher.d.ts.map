@@ -1,0 +1,1 @@
+{"version":3,"file":"capabilities_switcher.d.ts","sourceRoot":"","sources":["../../../../../server/lib/capabilities/capabilities_switcher.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,UAAU,EAAE,MAAM,MAAM,CAAC;AAElC,OAAO,EAAwB,SAAS,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AAC1E,OAAO,EAAE,QAAQ,EAAE,MAAM,oCAAoC,CAAC;AAI9D,eAAO,MAAM,yBAAyB,cACzB,SAAS,YACV,WAAW,QAAQ,CAAC,UACtB,MAAM,SAGf,CAAC"}

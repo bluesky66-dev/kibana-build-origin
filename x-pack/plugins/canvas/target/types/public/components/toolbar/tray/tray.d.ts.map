@@ -1,0 +1,1 @@
+{"version":3,"file":"tray.d.ts","sourceRoot":"","sources":["../../../../../../public/components/toolbar/tray/tray.tsx"],"names":[],"mappings":"AAOA,OAAc,EAAE,SAAS,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAC;AAC5D,OAAO,SAAS,MAAM,YAAY,CAAC;AAMnC,UAAU,KAAK;IACb,QAAQ,EAAE,SAAS,CAAC;IACpB,IAAI,EAAE,iBAAiB,CAAC,iBAAiB,CAAC,CAAC;CAC5C;AAED,eAAO,MAAM,IAAI;yBAAwB,KAAK;;;;;CAgB7C,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"elastic_index.d.ts","sourceRoot":"","sources":["../../../../../server/services/fleet_server/elastic_index.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,mBAAmB,EAAE,MAAM,eAAe,CAAC;AAqBpD,wBAAsB,uBAAuB,CAC3C,QAAQ,sBAA8C,iBASvD;AAED,wBAAsB,wBAAwB,CAC5C,QAAQ,EAAE,mBAAmB,EAC7B,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,MAAM,iBAkBd"}

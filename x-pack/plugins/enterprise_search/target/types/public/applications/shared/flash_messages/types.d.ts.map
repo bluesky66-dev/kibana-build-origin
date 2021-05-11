@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../../public/applications/shared/flash_messages/types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,OAAO,CAAC;AAElC,MAAM,WAAW,aAAa;IAC5B,IAAI,EAAE,SAAS,GAAG,MAAM,GAAG,SAAS,GAAG,OAAO,CAAC;IAC/C,OAAO,EAAE,SAAS,CAAC;IACnB,WAAW,CAAC,EAAE,SAAS,CAAC;CACzB"}

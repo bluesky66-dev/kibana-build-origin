@@ -1,0 +1,1 @@
+{"version":3,"file":"default_api_types.d.ts","sourceRoot":"","sources":["../../../../server/routes/default_api_types.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,CAAC,MAAM,OAAO,CAAC;AAG3B,eAAO,MAAM,OAAO;;;EAGlB,CAAC;AAEH,eAAO,MAAM,iBAAiB;;;EAG5B,CAAC;AAEH,eAAO,MAAM,aAAa;;EAAuC,CAAC;AAElE,eAAO,MAAM,WAAW;;EAAkC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"get_url_search.d.ts","sourceRoot":"","sources":["../../../../../server/lib/rum_client/get_url_search.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,KAAK,EAAE,cAAc,EAAE,MAAM,0BAA0B,CAAC;AAOjE,wBAAsB,YAAY,CAAC,EACjC,KAAK,EACL,QAAQ,EACR,UAAU,GACX,EAAE;IACD,KAAK,EAAE,KAAK,GAAG,cAAc,CAAC;IAC9B,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,UAAU,EAAE,MAAM,CAAC;CACpB;;;;;;;GAgDA"}

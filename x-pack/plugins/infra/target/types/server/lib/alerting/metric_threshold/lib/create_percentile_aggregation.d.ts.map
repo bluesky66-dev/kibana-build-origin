@@ -1,0 +1,1 @@
+{"version":3,"file":"create_percentile_aggregation.d.ts","sourceRoot":"","sources":["../../../../../../../server/lib/alerting/metric_threshold/lib/create_percentile_aggregation.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,WAAW,EAAE,MAAM,UAAU,CAAC;AACvC,eAAO,MAAM,2BAA2B,SAChC,YAAY,GAAG,GAAG,YAAY,GAAG,SAChC,MAAM;;;;;;;;CAYd,CAAC"}

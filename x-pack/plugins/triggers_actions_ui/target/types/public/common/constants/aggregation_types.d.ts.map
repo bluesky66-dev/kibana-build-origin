@@ -1,0 +1,1 @@
+{"version":3,"file":"aggregation_types.d.ts","sourceRoot":"","sources":["../../../../../public/common/constants/aggregation_types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAE3C,oBAAY,iBAAiB;IAC3B,KAAK,UAAU;IACf,OAAO,QAAQ;IACf,GAAG,QAAQ;IACX,GAAG,QAAQ;IACX,GAAG,QAAQ;CACZ;AAED,eAAO,MAAM,uBAAuB,EAAE;IAAE,CAAC,GAAG,EAAE,MAAM,GAAG,eAAe,CAAA;CA+BrE,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"code_block.d.ts","sourceRoot":"","sources":["../../../../../../../public/application/components/mappings_editor/components/code_block.tsx"],"names":[],"mappings":"AAOA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B;;;;;GAKG;AAEH,UAAU,KAAK;IACb,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC;IAC1B,OAAO,CAAC,EAAE,OAAO,GAAG,QAAQ,CAAC;CAC9B;AAED,eAAO,MAAM,SAAS,0BAAsC,KAAK,gBAShE,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"error.d.ts","sourceRoot":"","sources":["../../../../public/pages/error.tsx"],"names":[],"mappings":"AAiBA,OAAO,KAAK,MAAM,OAAO,CAAC;AAW1B,UAAU,KAAK;IACb,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,eAAO,MAAM,KAAK,EAAE,KAAK,CAAC,EAAE,CAAC,KAAK,CASjC,CAAC;AAEF,eAAO,MAAM,aAAa,EAAE,KAAK,CAAC,EAAE,CAAC;IAAE,OAAO,EAAE,MAAM,CAAA;CAAE,CA6BvD,CAAC"}

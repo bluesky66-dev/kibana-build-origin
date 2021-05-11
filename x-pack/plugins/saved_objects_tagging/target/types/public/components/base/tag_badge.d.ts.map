@@ -1,0 +1,1 @@
+{"version":3,"file":"tag_badge.d.ts","sourceRoot":"","sources":["../../../../../public/components/base/tag_badge.tsx"],"names":[],"mappings":"AAOA,OAAc,EAAE,EAAE,EAAE,MAAM,OAAO,CAAC;AAElC,OAAO,EAAE,GAAG,EAAE,aAAa,EAAE,MAAM,uBAAuB,CAAC;AAE3D,MAAM,WAAW,aAAa;IAC5B,GAAG,EAAE,GAAG,GAAG,aAAa,CAAC;CAC1B;AAED;;GAEG;AACH,eAAO,MAAM,QAAQ,EAAE,EAAE,CAAC,aAAa,CAEtC,CAAC"}

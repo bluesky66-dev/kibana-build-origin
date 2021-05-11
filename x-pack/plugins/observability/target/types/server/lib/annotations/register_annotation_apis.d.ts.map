@@ -1,0 +1,1 @@
+{"version":3,"file":"register_annotation_apis.d.ts","sourceRoot":"","sources":["../../../../../server/lib/annotations/register_annotation_apis.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,SAAS,EAAkB,MAAM,EAAE,MAAM,eAAe,CAAC;AAclE,wBAAgB,sBAAsB,CAAC,EACrC,IAAI,EACJ,KAAK,EACL,MAAM,GACP,EAAE;IACD,IAAI,EAAE,SAAS,CAAC;IAChB,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;CAChB,QA8FA"}

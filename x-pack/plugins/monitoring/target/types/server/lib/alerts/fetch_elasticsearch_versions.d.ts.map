@@ -1,0 +1,1 @@
+{"version":3,"file":"fetch_elasticsearch_versions.d.ts","sourceRoot":"","sources":["../../../../../server/lib/alerts/fetch_elasticsearch_versions.ts"],"names":[],"mappings":"AAMA,OAAO,EAAE,YAAY,EAAE,aAAa,EAAE,MAAM,8BAA8B,CAAC;AAG3E,wBAAsB,0BAA0B,CAC9C,WAAW,EAAE,GAAG,EAChB,QAAQ,EAAE,YAAY,EAAE,EACxB,KAAK,EAAE,MAAM,EACb,IAAI,EAAE,MAAM,GACX,OAAO,CAAC,aAAa,EAAE,CAAC,CAwD1B"}

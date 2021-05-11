@@ -1,0 +1,1 @@
+{"version":3,"file":"get_connection_count.d.ts","sourceRoot":"","sources":["../../../../../server/routes/lib/get_connection_count.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,0BAA0B,EAAoC,MAAM,iBAAiB,CAAC;AAE/F,OAAO,EAAE,GAAG,EAAE,gBAAgB,EAAE,MAAM,uBAAuB,CAAC;AAE9D,eAAO,MAAM,kBAAkB,SACvB,GAAG,EAAE,eACE,MAAM,EAAE,UACb,0BAA0B,KACjC,QAAQ,gBAAgB,EAAE,CA4B5B,CAAC"}

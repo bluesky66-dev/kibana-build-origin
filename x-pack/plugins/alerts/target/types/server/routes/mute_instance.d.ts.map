@@ -1,0 +1,1 @@
+{"version":3,"file":"mute_instance.d.ts","sourceRoot":"","sources":["../../../../server/routes/mute_instance.ts"],"names":[],"mappings":"AAQA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAC/C,OAAO,EAAE,aAAa,EAAE,MAAM,sBAAsB,CAAC;AAYrD,eAAO,MAAM,sBAAsB,WAAY,cAAc,gBAAgB,aAAa,SAgCzF,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"mark_api_key_for_invalidation.d.ts","sourceRoot":"","sources":["../../../../server/invalidate_pending_api_keys/mark_api_key_for_invalidation.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,MAAM,EAAE,0BAA0B,EAAE,MAAM,iBAAiB,CAAC;AAErE,eAAO,MAAM,yBAAyB;YACd,MAAM,GAAG,IAAI;WAC3B,MAAM,sBACM,0BAA0B,KAC7C,QAAQ,IAAI,CAad,CAAC"}

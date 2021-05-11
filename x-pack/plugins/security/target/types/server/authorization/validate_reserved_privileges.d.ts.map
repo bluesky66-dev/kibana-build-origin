@@ -1,0 +1,1 @@
+{"version":3,"file":"validate_reserved_privileges.d.ts","sourceRoot":"","sources":["../../../../server/authorization/validate_reserved_privileges.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAC;AAEzD,wBAAgB,0BAA0B,CAAC,QAAQ,EAAE,aAAa,EAAE,QAWnE"}

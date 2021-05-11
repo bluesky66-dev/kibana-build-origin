@@ -1,0 +1,1 @@
+{"version":3,"file":"reserved_kibana_privilege.d.ts","sourceRoot":"","sources":["../../../common/reserved_kibana_privilege.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,uBAAuB,EAAE,MAAM,GAAG,CAAC;AAE5C,MAAM,WAAW,uBAAuB;IACtC,EAAE,EAAE,MAAM,CAAC;IACX,SAAS,EAAE,uBAAuB,CAAC;CACpC"}

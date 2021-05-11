@@ -1,0 +1,1 @@
+{"version":3,"file":"kibana.d.ts","sourceRoot":"","sources":["../../../../../server/lib/compose/kibana.ts"],"names":[],"mappings":"AAUA,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAC;AACtC,OAAO,EAAE,eAAe,EAAE,MAAM,uBAAuB,CAAC;AAExD,wBAAgB,OAAO,CAAC,MAAM,EAAE,eAAe,GAAG,YAAY,CAQ7D"}

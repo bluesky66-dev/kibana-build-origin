@@ -1,0 +1,1 @@
+{"version":3,"file":"use_breadcrumbs.d.ts","sourceRoot":"","sources":["../../../../public/hooks/use_breadcrumbs.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,gBAAgB,EAAE,MAAM,eAAe,CAAC;AAGjD,OAAO,EAAE,aAAa,EAAE,MAAM,cAAc,CAAC;AAC7C,OAAO,EAAE,eAAe,EAAE,MAAM,eAAe,CAAC;AA2BhD,eAAO,MAAM,kBAAkB,SAAU,MAAM,2CAA6B,aAc3E,CAAC;AAEF,eAAO,MAAM,cAAc,gBAAiB,gBAAgB,EAAE,SAc7D,CAAC"}

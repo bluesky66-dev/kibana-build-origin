@@ -1,0 +1,1 @@
+{"version":3,"file":"i18n_getters.d.ts","sourceRoot":"","sources":["../../../common/i18n_getters.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,OAAO,EAAE,MAAM,oBAAoB,CAAC;AAC7C,OAAO,EAAE,oBAAoB,EAAE,MAAM,aAAa,CAAC;AAEnD,wBAAgB,WAAW,WAI1B;AAED,wBAAgB,2BAA2B,WAI1C;AAED,wBAAgB,kBAAkB,WAIjC;AAED,wBAAgB,WAAW,WAI1B;AAED,wBAAgB,yBAAyB,CAAC,eAAe,EAAE,OAAO,CAAC,OAAO,oBAAoB,CAAC,UAsB9F"}

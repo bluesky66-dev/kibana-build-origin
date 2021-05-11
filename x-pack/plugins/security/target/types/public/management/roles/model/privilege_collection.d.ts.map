@@ -1,0 +1,1 @@
+{"version":3,"file":"privilege_collection.d.ts","sourceRoot":"","sources":["../../../../../../public/management/roles/model/privilege_collection.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,eAAe,EAAE,MAAM,oBAAoB,CAAC;AAErD,qBAAa,mBAAmB;IAC9B,OAAO,CAAC,OAAO,CAAsB;gBAEzB,UAAU,EAAE,eAAe,EAAE;IAMlC,eAAe,CAAC,SAAS,EAAE,eAAe;IAIjD,OAAO,CAAC,YAAY;CAWrB"}

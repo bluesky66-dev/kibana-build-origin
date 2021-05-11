@@ -1,0 +1,1 @@
+{"version":3,"file":"services.d.ts","sourceRoot":"","sources":["../../../../server/projections/services.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,KAAK,EAAE,cAAc,EAAE,MAAM,wCAAwC,CAAC;AAM/E,wBAAgB,qBAAqB,CAAC,EACpC,KAAK,EACL,4BAA4B,GAC7B,EAAE;IACD,KAAK,EAAE,KAAK,GAAG,cAAc,CAAC;IAC9B,4BAA4B,EAAE,OAAO,CAAC;CACvC;;;;;;;;;;;;;;;;;;;EA6BA"}

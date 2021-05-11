@@ -1,0 +1,1 @@
+{"version":3,"file":"ccr.d.ts","sourceRoot":"","sources":["../../../../../server/lib/elasticsearch/ccr.ts"],"names":[],"mappings":"AAcA,OAAO,EAAE,qBAAqB,EAAE,MAAM,0BAA0B,CAAC;AACjE,OAAO,EAAE,aAAa,EAAE,MAAM,aAAa,CAAC;AAE5C,wBAAgB,cAAc,CAAC,QAAQ,EAAE,qBAAqB,uBAK7D;AAED,wBAAsB,eAAe,CAAC,GAAG,EAAE,aAAa,EAAE,cAAc,EAAE,MAAM,gCA6B/E"}

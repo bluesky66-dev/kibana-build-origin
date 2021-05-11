@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../../server/lib/transactions/get_transaction/index.ts"],"names":[],"mappings":"AAYA,OAAO,EAAE,KAAK,EAAE,cAAc,EAAE,MAAM,6BAA6B,CAAC;AAIpE,wBAAgB,cAAc,CAAC,EAC7B,aAAa,EACb,OAAO,EACP,KAAK,GACN,EAAE;IACD,aAAa,EAAE,MAAM,CAAC;IACtB,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,KAAK,GAAG,cAAc,CAAC;CAC/B,gFAwBA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"get_alert_instance_summary.d.ts","sourceRoot":"","sources":["../../../../server/routes/get_alert_instance_summary.ts"],"names":[],"mappings":"AAQA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAC/C,OAAO,EAAE,aAAa,EAAE,MAAM,sBAAsB,CAAC;AAYrD,eAAO,MAAM,4BAA4B,WAC/B,cAAc,gBACR,aAAa,SAsB5B,CAAC"}

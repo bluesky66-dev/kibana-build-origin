@@ -1,0 +1,1 @@
+{"version":3,"file":"get_pings.d.ts","sourceRoot":"","sources":["../../../../../server/lib/requests/get_pings.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,sBAAsB,EAAE,MAAM,uBAAuB,CAAC;AAC/D,OAAO,EACL,cAAc,EAEd,aAAa,EAEd,MAAM,+BAA+B,CAAC;AAyCvC,eAAO,MAAM,QAAQ,EAAE,sBAAsB,CAAC,cAAc,EAAE,aAAa,CAsD1E,CAAC"}

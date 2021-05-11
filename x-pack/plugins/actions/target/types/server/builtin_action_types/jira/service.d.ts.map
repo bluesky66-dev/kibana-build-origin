@@ -1,0 +1,1 @@
+{"version":3,"file":"service.d.ts","sourceRoot":"","sources":["../../../../../server/builtin_action_types/jira/service.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,MAAM,EAAE,MAAM,mCAAmC,CAAC;AAC3D,OAAO,EAGL,eAAe,EAEf,0BAA0B,EAU3B,MAAM,SAAS,CAAC;AAIjB,OAAO,EAAE,6BAA6B,EAAE,MAAM,sBAAsB,CAAC;AAUrE,eAAO,MAAM,qBAAqB,wBACX,0BAA0B,UACvC,MAAM,0BACU,6BAA6B,KACpD,eAudF,CAAC"}

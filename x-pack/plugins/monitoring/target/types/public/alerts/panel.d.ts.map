@@ -1,0 +1,1 @@
+{"version":3,"file":"panel.d.ts","sourceRoot":"","sources":["../../../../public/alerts/panel.tsx"],"names":[],"mappings":"AAOA,OAAO,KAAmB,MAAM,OAAO,CAAC;AAUxC,OAAO,EAAE,WAAW,EAAE,gBAAgB,EAAgB,MAAM,2BAA2B,CAAC;AAMxF,UAAU,KAAK;IACb,KAAK,EAAE,WAAW,CAAC;IACnB,UAAU,CAAC,EAAE,gBAAgB,CAAC;CAC/B;AACD,eAAO,MAAM,UAAU,EAAE,KAAK,CAAC,EAAE,CAAC,KAAK,CAoDtC,CAAC"}

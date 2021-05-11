@@ -1,0 +1,1 @@
+{"version":3,"file":"api.d.ts","sourceRoot":"","sources":["../../../../../../server/authorization/privileges/feature_privilege_builder/api.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,uBAAuB,EAAE,MAAM,gCAAgC,CAAC;AACzE,OAAO,EAAE,2BAA2B,EAAE,MAAM,6BAA6B,CAAC;AAE1E,qBAAa,0BAA2B,SAAQ,2BAA2B;IAClE,UAAU,CAAC,mBAAmB,EAAE,uBAAuB,GAAG,MAAM,EAAE;CAO1E"}

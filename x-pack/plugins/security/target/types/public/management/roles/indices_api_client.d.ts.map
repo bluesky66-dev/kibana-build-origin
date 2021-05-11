@@ -1,0 +1,1 @@
+{"version":3,"file":"indices_api_client.d.ts","sourceRoot":"","sources":["../../../../../public/management/roles/indices_api_client.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAE5C,qBAAa,gBAAgB;IACf,OAAO,CAAC,QAAQ,CAAC,IAAI;gBAAJ,IAAI,EAAE,SAAS;IAEtC,SAAS,CAAC,KAAK,EAAE,MAAM;CAM9B"}

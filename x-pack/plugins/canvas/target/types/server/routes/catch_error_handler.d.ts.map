@@ -1,0 +1,1 @@
+{"version":3,"file":"catch_error_handler.d.ts","sourceRoot":"","sources":["../../../../server/routes/catch_error_handler.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,cAAc,EAAE,MAAM,iBAAiB,CAAC;AAEjD,eAAO,MAAM,iBAAiB,EAAE,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,EACtC,EAAE,EAAE,cAAc,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,KACxB,cAAc,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,CAc1B,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"package_collectors.d.ts","sourceRoot":"","sources":["../../../../server/collectors/package_collectors.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,kBAAkB,EAAE,MAAM,eAAe,CAAC;AAMnD,MAAM,WAAW,YAAY;IAC3B,IAAI,EAAE,MAAM,CAAC;IACb,OAAO,EAAE,MAAM,CAAC;IAChB,OAAO,EAAE,OAAO,CAAC;CAClB;AAED,eAAO,MAAM,eAAe,iDAA0C,QAAQ,YAAY,EAAE,CA6B3F,CAAC"}

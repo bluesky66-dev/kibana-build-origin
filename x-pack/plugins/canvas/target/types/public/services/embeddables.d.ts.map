@@ -1,0 +1,1 @@
+{"version":3,"file":"embeddables.d.ts","sourceRoot":"","sources":["../../../../public/services/embeddables.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,iBAAiB,EAAE,MAAM,8CAA8C,CAAC;AACjF,OAAO,EAAE,oBAAoB,EAAE,MAAM,GAAG,CAAC;AAEzC,MAAM,WAAW,kBAAkB;IACjC,sBAAsB,EAAE,MAAM,gBAAgB,CAAC,iBAAiB,CAAC,CAAC;CACnE;AAED,eAAO,MAAM,yBAAyB,EAAE,oBAAoB,CAAC,kBAAkB,CAO7E,CAAC"}

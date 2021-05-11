@@ -1,0 +1,1 @@
+{"version":3,"file":"register_feature.d.ts","sourceRoot":"","sources":["../../../../../server/routes/internal/register_feature.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,wBAAwB,EAAE,MAAM,gBAAgB,CAAC;AAC1D,OAAO,EAAE,eAAe,EAAE,MAAM,aAAa,CAAC;AAE9C,wBAAgB,4BAA4B,CAC1C,MAAM,EAAE,eAAe,EACvB,iBAAiB,EAAE,wBAAwB,QAkC5C"}

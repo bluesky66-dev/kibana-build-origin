@@ -1,0 +1,1 @@
+{"version":3,"file":"kibana_privileges.d.ts","sourceRoot":"","sources":["../../../../../../public/management/roles/__fixtures__/kibana_privileges.ts"],"names":[],"mappings":"AAWA,OAAO,EAAE,aAAa,EAAE,MAAM,gCAAgC,CAAC;AAC/D,OAAO,EAAE,gBAAgB,EAAE,MAAM,UAAU,CAAC;AAM5C,eAAO,MAAM,yBAAyB,aAC1B,aAAa,EAAE;;;;;;;;;;;;;CAgB1B,CAAC;AAEF,eAAO,MAAM,sBAAsB,aACvB,aAAa,EAAE;;sBAO1B,CAAC"}

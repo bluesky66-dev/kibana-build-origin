@@ -1,0 +1,1 @@
+{"version":3,"file":"register_alert_types.d.ts","sourceRoot":"","sources":["../../../../../server/lib/alerting/register_alert_types.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,mBAAmB,EAAE,MAAM,2BAA2B,CAAC;AAMhE,OAAO,EAAE,gBAAgB,EAAE,MAAM,gBAAgB,CAAC;AAGlD,QAAA,MAAM,kBAAkB,mBACN,mBAAmB,QAC7B,gBAAgB,0FAavB,CAAC;AAEF,OAAO,EAAE,kBAAkB,EAAE,CAAC"}

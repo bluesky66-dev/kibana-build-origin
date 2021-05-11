@@ -1,0 +1,1 @@
+{"version":3,"file":"ui.d.ts","sourceRoot":"","sources":["../../../../../server/authorization/actions/ui.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,YAAY,IAAI,cAAc,EAAE,MAAM,mCAAmC,CAAC;AAGnF,qBAAa,SAAS;IACpB,OAAO,CAAC,QAAQ,CAAC,MAAM,CAAS;gBAEpB,aAAa,EAAE,MAAM;IAI1B,GAAG,CAAC,SAAS,EAAE,MAAM,cAAc,EAAE,GAAG,iBAAiB,EAAE,MAAM,EAAE;CAsB3E"}

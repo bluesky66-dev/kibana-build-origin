@@ -1,0 +1,1 @@
+{"version":3,"file":"processor_event.d.ts","sourceRoot":"","sources":["../../../common/processor_event.ts"],"names":[],"mappings":"AAOA,oBAAY,cAAc;IACxB,WAAW,gBAAgB;IAC3B,KAAK,UAAU;IACf,MAAM,WAAW;IACjB,IAAI,SAAS;CACd;AACD;;;;;GAKG;AAEH,oBAAY,gBAAgB,GACxB,cAAc,CAAC,WAAW,GAC1B,cAAc,CAAC,KAAK,GACpB,cAAc,CAAC,MAAM,CAAC"}

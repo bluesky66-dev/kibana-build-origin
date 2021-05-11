@@ -1,0 +1,1 @@
+{"version":3,"file":"index_patterns.d.ts","sourceRoot":"","sources":["../../../../../server/models/data_frame_analytics/index_patterns.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,0BAA0B,EAAE,MAAM,eAAe,CAAC;AAG3D,qBAAa,mBAAmB;IAClB,OAAO,CAAC,kBAAkB;gBAAlB,kBAAkB,EAAE,0BAA0B;IAE5D,iBAAiB,CAAC,SAAS,EAAE,MAAM;IAgBnC,sBAAsB,CAAC,OAAO,EAAE,MAAM;CAG7C"}

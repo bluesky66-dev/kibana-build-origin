@@ -1,0 +1,1 @@
+{"version":3,"file":"ply.d.ts","sourceRoot":"","sources":["../../../../../i18n/functions/dict/ply.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,GAAG,EAAE,MAAM,iDAAiD,CAAC;AACtE,OAAO,EAAE,YAAY,EAAE,MAAM,kBAAkB,CAAC;AAChD,OAAO,EAAE,eAAe,EAAE,MAAM,gBAAgB,CAAC;AAGjD,eAAO,MAAM,IAAI,EAAE,YAAY,CAAC,eAAe,CAAC,OAAO,GAAG,CAAC,CA8B1D,CAAC;AAEF,eAAO,MAAM,MAAM;yBACI,MAAM;;CAe5B,CAAC"}

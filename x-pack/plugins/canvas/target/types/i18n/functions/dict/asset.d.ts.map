@@ -1,0 +1,1 @@
+{"version":3,"file":"asset.d.ts","sourceRoot":"","sources":["../../../../../i18n/functions/dict/asset.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,KAAK,EAAE,MAAM,iCAAiC,CAAC;AACxD,OAAO,EAAE,YAAY,EAAE,MAAM,kBAAkB,CAAC;AAChD,OAAO,EAAE,eAAe,EAAE,MAAM,gBAAgB,CAAC;AAEjD,eAAO,MAAM,IAAI,EAAE,YAAY,CAAC,eAAe,CAAC,OAAO,KAAK,CAAC,CAU5D,CAAC;AAEF,eAAO,MAAM,MAAM;8BACS,MAAM;CASjC,CAAC"}

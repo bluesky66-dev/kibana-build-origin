@@ -1,0 +1,1 @@
+{"version":3,"file":"authorization.d.ts","sourceRoot":"","sources":["../../../../server/saved_objects/authorization.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,aAAa,EAAE,MAAM,eAAe,CAAC;AAC9C,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,0BAA0B,CAAC;AAGpE,wBAAgB,qBAAqB,CAAC,aAAa,EAAE,mBAAmB,CAAC,OAAO,CAAC;kCACpC,aAAa;;;;EAqCzD"}

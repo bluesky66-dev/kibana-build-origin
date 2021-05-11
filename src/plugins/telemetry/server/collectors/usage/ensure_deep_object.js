@@ -1,0 +1,65 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ensureDeepObject = ensureDeepObject;
+
+/*
+ * Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+ * or more contributor license agreements. Licensed under the Elastic License
+ * 2.0 and the Server Side Public License, v 1; you may not use this file except
+ * in compliance with, at your election, the Elastic License 2.0 or the Server
+ * Side Public License, v 1.
+ */
+//
+// THIS IS A DIRECT COPY OF
+// '../../../../../../../src/core/server/config/ensure_deep_object'
+// BECAUSE THAT IS BLOCKED FOR IMPORTING BY OUR LINTER.
+//
+// IF THAT IS EXPOSED, WE SHOULD USE IT RATHER THAN CLONE IT.
+//
+const separator = '.';
+/**
+ * Recursively traverses through the object's properties and expands ones with
+ * dot-separated names into nested objects (eg. { a.b: 'c'} -> { a: { b: 'c' }).
+ * @param obj Object to traverse through.
+ * @returns Same object instance with expanded properties.
+ */
+
+function ensureDeepObject(obj) {
+  if (obj == null || typeof obj !== 'object') {
+    return obj;
+  }
+
+  if (Array.isArray(obj)) {
+    return obj.map(item => ensureDeepObject(item));
+  }
+
+  return Object.keys(obj).reduce((fullObject, propertyKey) => {
+    const propertyValue = obj[propertyKey];
+
+    if (!propertyKey.includes(separator)) {
+      fullObject[propertyKey] = ensureDeepObject(propertyValue);
+    } else {
+      walk(fullObject, propertyKey.split(separator), propertyValue);
+    }
+
+    return fullObject;
+  }, {});
+}
+
+function walk(obj, keys, value) {
+  const key = keys.shift();
+
+  if (keys.length === 0) {
+    obj[key] = value;
+    return;
+  }
+
+  if (obj[key] === undefined) {
+    obj[key] = {};
+  }
+
+  walk(obj[key], keys, ensureDeepObject(value));
+}

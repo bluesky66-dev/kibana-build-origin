@@ -1,0 +1,1 @@
+{"version":3,"file":"ready_signal.d.ts","sourceRoot":"","sources":["../../../../server/lib/ready_signal.ts"],"names":[],"mappings":"AAOA,MAAM,WAAW,WAAW,CAAC,CAAC,GAAG,IAAI;IACnC,IAAI,IAAI,OAAO,CAAC,CAAC,CAAC,CAAC;IACnB,MAAM,CAAC,KAAK,EAAE,CAAC,GAAG,IAAI,CAAC;CACxB;AAED,wBAAgB,iBAAiB,CAAC,CAAC,KAAK,WAAW,CAAC,CAAC,CAAC,CAgBrD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"get_journey_screenshot.d.ts","sourceRoot":"","sources":["../../../../../server/lib/requests/get_journey_screenshot.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,sBAAsB,EAAE,MAAM,uBAAuB,CAAC;AAG/D,MAAM,WAAW,0BAA0B;IACzC,UAAU,EAAE,MAAM,CAAC;IACnB,SAAS,EAAE,MAAM,CAAC;CACnB;AAED,eAAO,MAAM,oBAAoB,EAAE,sBAAsB,CACvD,0BAA0B,EAC1B,GAAG,CAoDJ,CAAC"}

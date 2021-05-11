@@ -1,0 +1,1 @@
+{"version":3,"file":"cluster.d.ts","sourceRoot":"","sources":["../../../../../server/models/cluster/cluster.ts"],"names":[],"mappings":"AASA;;GAEG;AACH,qBAAa,OAAO;IAClB,SAAgB,IAAI,EAAE,MAAM,CAAC;gBACjB,EAAE,IAAI,EAAE,EAAE;QAAE,IAAI,EAAE,MAAM,CAAA;KAAE;IAItC,IAAW,cAAc;;MAMxB;IAGD,MAAM,CAAC,gBAAgB,CAAC,eAAe,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC;CAIhE"}
